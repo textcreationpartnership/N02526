@@ -120,8 +120,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002997_0000_0FEFAC7D13C06198"/>
-            <pb facs="tcp:002997_0001_0FEF96E0030967A0"/>
+            <pb facs="unknown:002997_0000_0FEFAC7D13C06198"/>
+            <pb facs="unknown:002997_0001_0FEF96E0030967A0"/>
             <p>The Secretary's Guide, OR Young Mans Companion, In Four Parts.</p>
             <p>Part I. Contains Directions for Spelling, Read<g ref="char:EOLhyphen"/>ing and Writing True <hi>English,</hi> with true Pronunciation.</p>
             <p>Part II. Arithmetick made easie, and the Rules thereof Explained and made familiar to the Capacity of those that desire to Learn.</p>
@@ -136,7 +136,7 @@
             <p>Printed and Sold by <hi>W. Bradford</hi> in <hi>New-York,</hi> and <hi>A. Bradford</hi> in <hi>Philadelphia,</hi> 1728.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:002997_0002_0FEF96E346779BF0"/>
+            <pb facs="unknown:002997_0002_0FEF96E346779BF0"/>
             <head>To the READER.</head>
             <opener>
                <salute>Kind Reader;</salute>
@@ -146,7 +146,7 @@
                </gap> has been Reprinted, it has been enlarged, and now this fourth Edition, thou wilt find many Additions, in order to make it more useful than heretofore. And the going off of the former Editions are a better Argument of the Usefulness of the ensuing Book, than any Recommanda<g ref="char:EOLhyphen"/>tion a Preface could give. However, I will adventure to Recommend it as Useful and Ne<g ref="char:EOLhyphen"/>cessary if these <hi>American</hi> Parts, where Books of this Nature are not frequently to be got, and will <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> to say, that Elder People, as well as the Youth, may receive benefit and Advantage by it, by instructing them not only in <hi>True Spelling</hi> and <hi>Reading true English,</hi> with the Rules of <hi>Arithmetick,</hi> but also you have the Copies of Letters upon most Subjects. And <hi>lastly</hi> This small Treatise will supply you with <hi>Forms</hi> and <hi>Presidents</hi> of most sorts of <hi>Legal Writings</hi> that the Country has occasion for, ready drawn up to your hands, and save you the Charge not only of a Lawyer, Scrivener, or one that un<g ref="char:EOLhyphen"/>derstands these Matters, but also Time and
-<pb facs="tcp:002997_0003_0FEFAB987426E038"/>
+<pb facs="unknown:002997_0003_0FEFAB987426E038"/>
 Expence in Travelling to seek such a Person; and likewise enables the Country-man to do that Business himself which may not be proper for others to know, but to be kept private.</p>
             <p>But not to detain the <hi>Kind Reader</hi> with a long Preface, I Recommend him to the perusal of the several subject Matters contained in the following Sheets, which if they prove Profitable and answer the Readers Expectation, I shall be satisfied, and 'twill encourage us to Collect and Publish some other useful Matters that may be further Advantagious to the Coun<g ref="char:EOLhyphen"/>try in general, and the better enable the diligent to perform their several Callings, Profession and Imployments which Providence; may allot to every of us. I am,</p>
             <closer>
@@ -170,7 +170,7 @@ Expence in Travelling to seek such a Person; and likewise enables the Country-ma
             </p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:002997_0004_0FEFAB9AC4D18D10"/>
+            <pb facs="unknown:002997_0004_0FEFAB9AC4D18D10"/>
             <head>THE CONTENTS</head>
             <list>
                <item>PART I.
@@ -197,7 +197,7 @@ Expence in Travelling to seek such a Person; and likewise enables the Country-ma
                      <item>Of Division, p. 52.</item>
                      <item>Of Reduction, p. 56.</item>
                      <item>
-                        <pb facs="tcp:002997_0005_0FEFAB9C56DD4198"/>
+                        <pb facs="unknown:002997_0005_0FEFAB9C56DD4198"/>
 The Rule of Three, p. 58.</item>
                      <item>A Table for Buying and Selling any thing by the Hundred, p. 64.</item>
                      <item>A Table of Square Timber Measure, p. 65.</item>
@@ -241,7 +241,7 @@ The Rule of Three, p. 58.</item>
                      <item>A Letter of Recommendation, p. ibid.</item>
                      <item>The Answer, p. ibid.</item>
                      <item>
-                        <pb facs="tcp:002997_0006_0FEFAB9E859E33B0"/>
+                        <pb facs="unknown:002997_0006_0FEFAB9E859E33B0"/>
 A Letter of Congratulation from a Son to a Father upon his Recovery from Sickness, p. 95.</item>
                      <item>A Letter to a Friend, p. ibid.</item>
                      <item>A Letter requiring the Payment of Money, which <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -285,7 +285,7 @@ A Letter of Congratulation from a Son to a Father upon his Recovery from Sicknes
                      <item>A Letter from a Person at Sea, to his Friend in Shoar, p. ibid.</item>
                      <item>A Letter from one Gentlewoman to another, p. 109.</item>
                      <item>
-                        <pb facs="tcp:002997_0007_0FEFABA081150DC8"/>
+                        <pb facs="unknown:002997_0007_0FEFABA081150DC8"/>
 A Letter from a Gentleman to a Gentlewoman, to beg Pardon for an Offence, p. 109.</item>
                      <item>The Answer, p. 110.</item>
                      <item>A Letter to a Lady, defi<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -317,7 +317,7 @@ A Letter from a Gentleman to a Gentlewoman, to beg Pardon for an Offence, p. 109
                      <item>A Bond of Arbitration, with the Condition, p. 128.</item>
                      <item>A Condition of a Bond of Arbitration, with a Clause for a Umpire, p. 129.</item>
                      <item>
-                        <pb facs="tcp:002997_0008_0FEFABA48E11EDC0"/>
+                        <pb facs="unknown:002997_0008_0FEFABA48E11EDC0"/>
 The Form of an Award, p. 131.</item>
                      <item>The Form of the Umpirages, p. 132.</item>
                      <item>Observations thereon, p. 133.</item>
@@ -364,7 +364,7 @@ The Form of an Award, p. 131.</item>
                      <item>The Form of a General Release, p. 159.</item>
                      <item>The Copy of a Will. p. 160.</item>
                      <item>
-                        <pb facs="tcp:002997_0009_0FEFABA7157702A8"/>
+                        <pb facs="unknown:002997_0009_0FEFABA7157702A8"/>
 Rule worthy of Observation in <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>atters relating to Wills and Testaments, p. 161.</item>
@@ -398,7 +398,7 @@ Rule worthy of Observation in <gap reason="illegible" resp="#AELD" extent="1 let
       </front>
       <body>
          <div type="instructions">
-            <pb n="1" facs="tcp:002997_0010_0FEFABA9872BB180"/>
+            <pb n="1" facs="unknown:002997_0010_0FEFABA9872BB180"/>
             <div n="1" type="part">
                <head>PART I.</head>
                <head>Directions for Spelling, Reading, and Writing True English.</head>
@@ -445,7 +445,7 @@ Rule worthy of Observation in <gap reason="illegible" resp="#AELD" extent="1 let
                         <desc>••</desc>
                      </gap> Rule will guide you.</p>
                   <p>
-                     <pb n="2" facs="tcp:002997_0011_0FEFABAB323BC978"/>
+                     <pb n="2" facs="unknown:002997_0011_0FEFABAB323BC978"/>
 You must never use Great Letters in the <hi>míddle,</hi> or <hi>end</hi> of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Word (unless the whole be wrote so, as <hi>LORD</hi>) but always in the <hi>beginning:</hi> And <hi>there</hi> too; only in these six Cases following, <abbr>
@@ -477,7 +477,7 @@ You must never use Great Letters in the <hi>míddle,</hi> or <hi>end</hi> of <ga
                   <p>The <hi>Vowels</hi> are commonly counted but five, <abbr>
                         <hi>viz.</hi>
                      </abbr>
-                     <pb n="3" facs="tcp:002997_0012_0FEFABADE3567E58"/>
+                     <pb n="3" facs="unknown:002997_0012_0FEFABADE3567E58"/>
                      <hi>a, e, i, o, u,</hi> but we must add to them <hi>y,</hi> when it cometh after a <hi>Consonant.</hi>
                   </p>
                   <p>All the rest are <hi>Consonants,</hi> and so are <hi>j, <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -515,7 +515,7 @@ You must never use Great Letters in the <hi>míddle,</hi> or <hi>end</hi> of <ga
                         </gap>, </hi> and <hi>ou,</hi> save that <hi>those</hi> are used chiefly in the end of Words. And ow is sound<g ref="char:EOLhyphen"/>ed flat and soft; as <hi>A Bow, to <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>;</hi> whereas <hi>ou</hi> is more sharp and shrill, as <hi>Thou, you, adieu,</hi> Yet, contrary to
-<pb n="4" facs="tcp:002997_0013_0FEFABB153269298"/>
+<pb n="4" facs="unknown:002997_0013_0FEFABB153269298"/>
 this Rule, we do commonly write these Words follow<g ref="char:EOLhyphen"/>ing of a sharp sound, with <hi>ow, <abbr>viz.</abbr> To Bow, A Cow, Flower, Fowl, How, Power, Sow, Vowel.</hi> Again, on the other side, we write some with <hi>ou,</hi> and yet pro<g ref="char:EOLhyphen"/>nounce them as flat as the sound of <hi>ow,</hi> in <hi>know,</hi> 
                      <abbr>viz.</abbr> 
                      <hi>Four, Soul, drought.</hi> But certainly it is an Inconveniency, that Words under one and the same manner of Writing, should have a double and different Sound: To remedy which, some preferring <hi>Reason</hi> before corrupt <hi>Custom,</hi> use <hi>ow</hi> where ever the Sound is soft and flat, either in the begin<g ref="char:EOLhyphen"/>ning, middle, or end of a word; but <hi>ou</hi> where it is sharp: And write thus:</p>
@@ -538,7 +538,7 @@ this Rule, we do commonly write these Words follow<g ref="char:EOLhyphen"/>ing o
                      <hi>Answer.</hi> No, not always; but generally where any of the before-mentioned Pairs of <hi>Vowels</hi> happen together, they make a <hi>Diphthong,</hi> and must be sounded jointly, except in these Words following:</p>
                   <p>
                      <hi>ea</hi> are parted in <hi>Beatitude, Create, Creator, Creation,
-<pb n="5" facs="tcp:002997_0014_0FEFABB4332DA388"/>
+<pb n="5" facs="unknown:002997_0014_0FEFABB4332DA388"/>
 Genealogy, Ocean, Pag<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>ant, <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -591,7 +591,7 @@ Genealogy, Ocean, Pag<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>
                      </hi>
-                     <pb n="6" facs="tcp:002997_0015_0FEFABB689E82200"/>
+                     <pb n="6" facs="unknown:002997_0015_0FEFABB689E82200"/>
 and <hi>Vo</hi>) As <hi>single, <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -630,7 +630,7 @@ and <hi>Vo</hi>) As <hi>single, <gap reason="illegible" resp="#AELD" extent="1 w
                         </gap>.</hi>
                   </p>
                   <p>
-                     <pb n="7" facs="tcp:002997_0016_0FEFABB85C2156F8"/>
+                     <pb n="7" facs="unknown:002997_0016_0FEFABB85C2156F8"/>
 Many <hi>Consonants</hi> with one <hi>Vowel</hi> may make but one <hi>Syllable;</hi> as <hi>Length, Strength, Knights.</hi>
                   </p>
                   <p n="1">1. Rule, If two <hi>Vowels</hi> come together in a Word, and yet are no <hi>Diphthong,</hi> but both fully sounded, they must be divided, as in <hi>Di-et, Mu-tu-al, Tri-umph, Co-<gap reason="illegible" resp="#AELD" extent="1 word">
@@ -661,7 +661,7 @@ Many <hi>Consonants</hi> with one <hi>Vowel</hi> may make but one <hi>Syllable;<
                      </hi> Dr. <hi>Drink.</hi> Dw. <hi>Dwell,</hi> Fl. <hi>Flame.</hi> Fr. <hi>Frank.</hi> Gl. <hi>Glove.</hi> Gn. <hi>Gn<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>w.</hi>
-                     <pb n="8" facs="tcp:002997_0017_0FEFABBAEC75A338"/>
+                     <pb n="8" facs="unknown:002997_0017_0FEFABBAEC75A338"/>
 Gr. <hi>Grave.</hi> Kn. <hi>Know.</hi> Pl. <hi>Play,</hi> Pr. <hi>Pray.</hi> Sc. <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -717,7 +717,7 @@ Gr. <hi>Grave.</hi> Kn. <hi>Know.</hi> Pl. <hi>Play,</hi> Pr. <hi>Pray.</hi> Sc.
                      <hi>Fourthly,</hi> This Particle <hi>es,</hi> at the end of Words (which we commonly either <hi>Nouns</hi> of the <hi>Plural</hi> Number, or <hi>Verbs</hi> of the <hi>Third Person</hi>) is, sometimes swallowed up of the foregoing <hi>Syllable,</hi> and serves only to make it long; but sometimes it makes a <hi>Syllable</hi> of it self.</p>
                   <p>
                      <hi>Note,</hi> A <hi>Noun</hi> is the Name of a Thing, A <hi>Verb</hi> is a
-<pb n="9" facs="tcp:002997_0018_0FEFABBD6482C958"/>
+<pb n="9" facs="unknown:002997_0018_0FEFABBD6482C958"/>
 Word that betokeneth to do, or to suffer, or to be. The <hi>singular</hi> Number speaks but of one, the <hi>plural</hi> of more. The <hi>first Person</hi> is when a Man speaks of himself, as, <hi>I come.</hi> The <hi>second</hi> when one speaks to another, as, <hi>Thou comest.</hi> The <hi>third,</hi> as <hi>He comes</hi> or <hi>cometh.</hi>
                   </p>
                   <p>In these Words following it closes with the former Syllable.</p>
@@ -883,7 +883,7 @@ Word that betokeneth to do, or to suffer, or to be. The <hi>singular</hi> Number
                   </p>
                   <p>
                      <hi>Note,</hi> That these <hi>Verbs,</hi> are, by the Curious, written with an <hi>Apostrophus,</hi> as <hi>Refreshe's,</hi> for <hi>Refresheth,</hi> or doth <hi>Refresh,</hi> especially when the <hi>Verb</hi> and the <hi>Noun</hi> are both alike, to distinguish them, as, he <hi>hide's</hi> himself amongst
-<pb n="10" facs="tcp:002997_0019_0FEFABC060E013A0"/>
+<pb n="10" facs="unknown:002997_0019_0FEFABC060E013A0"/>
 the <hi>Hides.</hi> For otherwise it seems needless to write an <hi>Apostrophus</hi> where <hi>s</hi> is set for <hi>th,</hi> as <hi>Love's</hi> for <hi>be Loveth;</hi> there being nothing omitted, only the <hi>th</hi> (which in sound is but one Letter) is changed into <hi>s.</hi>
                   </p>
                   <p>
@@ -909,7 +909,7 @@ the <hi>Hides.</hi> For otherwise it seems needless to write an <hi>Apostrophus<
                   <p>And <hi>c</hi> is not sounded in <hi>Indict, Indictment, Indicted.</hi> Nor <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> in <hi>Wednesday.</hi> Nor <hi>e</hi> in the middle of the Word
-<pb n="11" facs="tcp:002997_0020_0FEFABC3C3F88678"/>
+<pb n="11" facs="unknown:002997_0020_0FEFABC3C3F88678"/>
                      <hi>
                         <gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
@@ -1113,7 +1113,7 @@ the <hi>Hides.</hi> For otherwise it seems needless to write an <hi>Apostrophus<
                         </gap>?</hi>
                   </p>
                   <p>
-                     <pb n="12" facs="tcp:002997_0021_0FEFABC586DC2638"/>
+                     <pb n="12" facs="unknown:002997_0021_0FEFABC586DC2638"/>
                      <hi>I will</hi> Write <hi>to my Lawyer for a Writ</hi>
                   </p>
                   <p>Nay, this <hi>e final</hi> does not only draw out the <hi>Syllable</hi> after one <hi>Consonant,</hi> but sometimes effects the same after two; as in <hi>Finde, Minde, Winde, Rinde, Binde, Waste, Taste, Tithe, Childe,</hi> which therefore ought to be so written.</p>
@@ -1128,7 +1128,7 @@ the <hi>Hides.</hi> For otherwise it seems needless to write an <hi>Apostrophus<
                   <p>But if <hi>g</hi> be short, with a short Vowel, then it must have <hi>d</hi> before it, as in <hi>badg, ledg, bridg, lodg, judg,</hi> which Words are thereby differenced both in Sound and Writing, from <hi>bag, leg, log, jug.</hi>
                   </p>
                   <p n="3">3. Another use of <hi>e</hi> at the end of Words, is for <hi>Oxna<g ref="char:EOLhyphen"/>ment,</hi> rather than <hi>Necessity;</hi> for so we add it to Words ending in <hi>i, o,</hi> or <hi>u,</hi> as <hi>Charitie, Vertue, Foe, Toe,</hi> where it does not vary the Sound, except after <hi>i,</hi> and there it makes the <hi>Syllable</hi> sound more gently, like the <hi>Diphthong ee,</hi> as <hi>Charitie</hi> is pronounc'd, as if it were written <hi>Charitee.</hi> Like<g ref="char:EOLhyphen"/>wise in <hi>Nouns</hi> and <hi>Verbs</hi> singular, 'tis generally added after the long <hi>s,</hi> joined with another <hi>Consonant;</hi> as <hi>Horse, Curse,</hi>
-                     <pb n="13" facs="tcp:002997_0022_0FEFABC88BD1B220"/>
+                     <pb n="13" facs="unknown:002997_0022_0FEFABC88BD1B220"/>
 to <hi>Nurse, Disburse:</hi> for we do not use to write <hi>Hors, Disburs, Curs,</hi> much less <hi>Hors, Disburs, Nurs;</hi> and I take the reason to be partly because those Words are thereby the more readily varied; As <hi>Nurse, Nurses; Curse, Curseth; Disburse, Disburses.</hi> And especially because the short <hi>s</hi> after <hi>r,</hi> with<g ref="char:EOLhyphen"/>out an <hi>e,</hi> makes a soft Sound, as <hi>Wars.</hi>
                   </p>
                   <p>If to <hi>e</hi> at the end of a Word, a long Vowel be added, the <hi>e</hi> is lost, and must be omitted in Writting, as <hi>love, loving,</hi> not <hi>loveing; have, having,</hi> not <hi>haveing;</hi> except these endings <hi>ge</hi> and <hi>ce,</hi> before <hi>able,</hi> as <hi>change, change-able; peace, peace-able;</hi> not <hi>chan-ga-ble, pea-ca-ble.</hi>
@@ -1143,7 +1143,7 @@ to <hi>Nurse, Disburse:</hi> for we do not use to write <hi>Hors, Disburs, Curs,
                   <p n="9">9. <hi>K</hi> is not heard in <hi>Back, Deck, Sick, Rock, <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>uck,</hi> &amp;c. for the <hi>Latines</hi> made the same sound with <hi>c</hi> alone, as <hi>Lac, Nec, Dic, Hec, Duc;</hi> and our best Authors do now write such Words, when deduced from the <hi>Greek</hi> or <hi>Latine,</hi> in <hi>ous,</hi> with <hi>c</hi> only, as <hi>Public, Physic, Catholic.</hi> But if the
-<pb n="14" facs="tcp:002997_0023_0FEFABCC8F32CAF8"/>
+<pb n="14" facs="unknown:002997_0023_0FEFABCC8F32CAF8"/>
                      <gap reason="illegible" resp="#AELD" extent="3 lines">
                         <desc>〈3 lines〉</desc>
                      </gap>
@@ -1174,7 +1174,7 @@ to <hi>Nurse, Disburse:</hi> for we do not use to write <hi>Hors, Disburs, Curs,
                   <head>Of Letters sounded alike, and how to avoid Mistakes in writing one for the other.</head>
                   <p>C And <hi>K,</hi> they have great Affinity in Sound, but to distinguish when you ought to use one, and where the other; Observe,</p>
                   <p>That <hi>C</hi> hath the force of <hi>K</hi> only before <hi>a, e, co, u,</hi> and these two Consonants, <hi>l</hi> and <hi>r.</hi> And therefore you must write <hi>Care, Cow, Cooper, Cupboard, Clergy, Crown;</hi> not <hi>Kare, Kow, Kooper, Kupboard, Klergy, Krown.</hi> But
-<pb n="15" facs="tcp:002997_0024_0FEFABCF417F8F68"/>
+<pb n="15" facs="unknown:002997_0024_0FEFABCF417F8F68"/>
 before <hi>e</hi> and <hi>i. C</hi> has commonly the sound of <hi>S;</hi> as <hi>Caesar, Citers,</hi> not <hi>Kasar, Kiters.</hi> And the use of <hi>K,</hi> is only before <hi>e, i,</hi> and <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -1218,7 +1218,7 @@ before <hi>e</hi> and <hi>i. C</hi> has commonly the sound of <hi>S;</hi> as <hi
                      </table>
                   </p>
                   <p>
-                     <pb n="16" facs="tcp:002997_0025_0FEFABD0E64D1590"/>
+                     <pb n="16" facs="unknown:002997_0025_0FEFABD0E64D1590"/>
 (for which yet we commonly use <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -1307,7 +1307,7 @@ before <hi>e</hi> and <hi>i. C</hi> has commonly the sound of <hi>S;</hi> as <hi
                            <desc>〈◊〉</desc>
                         </gap>, ince, once, unce, ancy,</hi> or <hi>ency;</hi> as <hi>Countenance, Prudence, Quince, Sconce, Dunce, Lieutenancy, Continence;</hi> not <hi>Countenants, Continensy,</hi> or the like, Except out of this Rule these Words.</p>
                   <p>
-                     <pb n="17" facs="tcp:002997_0026_0FEFABD274B10768"/>
+                     <pb n="17" facs="unknown:002997_0026_0FEFABD274B10768"/>
                      <table>
                         <row>
                            <cell>Abase</cell>
@@ -1435,7 +1435,7 @@ before <hi>e</hi> and <hi>i. C</hi> has commonly the sound of <hi>S;</hi> as <hi
                      </gap>
                   </p>
                   <p>
-                     <pb n="18" facs="tcp:002997_0027_0FEFABD46B70AAA0"/>
+                     <pb n="18" facs="unknown:002997_0027_0FEFABD46B70AAA0"/>
                      <hi>Ti,</hi> before, a Vowel, generally sounds like <hi>si,</hi> as <hi>Patience, Dictionary,</hi> except when <hi>s</hi> goes before, as <hi>Fustian, Com<g ref="char:EOLhyphen"/>bustian.</hi> And except the Word <hi>tied,</hi> and whenever a Word ending in <hi>ty</hi> hath another Syllable added to it that begins with a Vowel, as from <hi>Plenty, Pienteous; Mighty, Mightier.</hi>
                   </p>
                   <p>T. <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1513,7 +1513,7 @@ before <hi>e</hi> and <hi>i. C</hi> has commonly the sound of <hi>S;</hi> as <hi
                         </row>
                         <row>
                            <cell>
-                              <pb n="19" facs="tcp:002997_0028_0FEFABD8A3B5FBA8"/>
+                              <pb n="19" facs="unknown:002997_0028_0FEFABD8A3B5FBA8"/>
 Faction</cell>
                            <cell>Descension</cell>
                         </row>
@@ -1670,7 +1670,7 @@ Faction</cell>
                               <desc>〈◊〉</desc>
                            </gap>,</hi> a Message.</item>
                      <item>
-                        <pb n="20" facs="tcp:002997_0029_0FEFABDB479FD010"/>
+                        <pb n="20" facs="unknown:002997_0029_0FEFABDB479FD010"/>
                         <hi>Arrant,</hi> Notorious.</item>
                      <item>
                         <hi>Arras,</hi> Hangings,</item>
@@ -1832,7 +1832,7 @@ Faction</cell>
                      <item>
                         <hi>Chalice,</hi> a Cup.</item>
                      <item>
-                        <pb n="21" facs="tcp:002997_0030_0FEFABDDA531ED48"/>
+                        <pb n="21" facs="unknown:002997_0030_0FEFABDDA531ED48"/>
                         <hi>Call,</hi> by Name.</item>
                      <item>
                         <hi>Cawl,</hi> of a Pe<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2048,7 +2048,7 @@ Faction</cell>
                         <hi>Derbe,</hi> a City in <hi>Asia.</hi>
                      </item>
                      <item>
-                        <pb n="22" facs="tcp:002997_0031_0FEFABE0EE109658"/>
+                        <pb n="22" facs="unknown:002997_0031_0FEFABE0EE109658"/>
                         <hi>Derby,</hi> in <hi>England,</hi>
                      </item>
                      <item>
@@ -2266,7 +2266,7 @@ Faction</cell>
                      <item>
                         <hi>Gall,</hi> bitter Substance</item>
                      <item>
-                        <pb n="23" facs="tcp:002997_0032_0FEFABE38910EC40"/>
+                        <pb n="23" facs="unknown:002997_0032_0FEFABE38910EC40"/>
                         <hi>Gaul,</hi> a French-man</item>
                      <item>
                         <hi>Garden,</hi> of Herbs,</item>
@@ -2584,7 +2584,7 @@ Faction</cell>
                      <item>
                         <hi>Message</hi> a House</item>
                      <item>
-                        <pb n="25" facs="tcp:002997_0034_0FEFABE8E5F44B18"/>
+                        <pb n="25" facs="unknown:002997_0034_0FEFABE8E5F44B18"/>
                         <hi>Mews,</hi> for Hawks.</item>
                      <item>
                         <hi>Muse,</hi> to meditate.</item>
@@ -2747,7 +2747,7 @@ Faction</cell>
                      <item>
                         <hi>Power,</hi> Might,</item>
                      <item>
-                        <pb n="26" facs="tcp:002997_0035_0FEFABEBF0374AD0"/>
+                        <pb n="26" facs="unknown:002997_0035_0FEFABEBF0374AD0"/>
                         <hi>Practice,</hi>Exercises</item>
                      <item>
                         <hi>Practise,</hi> to exercise,</item>
@@ -2936,7 +2936,7 @@ Faction</cell>
                      <item>
                         <hi>Shoe,</hi> for the Foot.</item>
                      <item>
-                        <pb n="27" facs="tcp:002997_0036_0FEFABED7641FFD8"/>
+                        <pb n="27" facs="unknown:002997_0036_0FEFABED7641FFD8"/>
                         <hi>Ship,</hi> 
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -3181,7 +3181,7 @@ Faction</cell>
                            </gap>
                         </hi> for the Fire.</item>
                      <item>
-                        <pb n="28" facs="tcp:002997_0037_0FEFABEFDFDC4BB8"/>
+                        <pb n="28" facs="unknown:002997_0037_0FEFABEFDFDC4BB8"/>
                         <hi>Tongues,</hi> Languages.</item>
                      <item>
                         <hi>Towr,</hi> to hang in fight,</item>
@@ -3356,7 +3356,7 @@ your self.</item>
                   </list>
                </div>
                <div type="instructions">
-                  <pb n="29" facs="tcp:002997_0038_0FEFABF325A42B60"/>
+                  <pb n="29" facs="unknown:002997_0038_0FEFABF325A42B60"/>
                   <head>Of Points and Stops.</head>
                   <p>SInce Points, Stops and Notes are of abso<g ref="char:EOLhyphen"/>lute necessity in Writing True <hi>English,</hi> Therefore</p>
                   <p>
@@ -3405,7 +3405,7 @@ your self.</item>
                      <hi>Hyphen, Divisioner Notê of Connexion (-)</hi>
                   </p>
                   <p>
-                     <pb n="30" facs="tcp:002997_0039_0FEFABF5_744A1FA8"/>
+                     <pb n="30" facs="unknown:002997_0039_0FEFABF5_744A1FA8"/>
 When you have Compound Words or end your line, In parting Words this Mark is for a sign.</p>
                   <p>
                      <hi>As Old-England, New-York, Husband-man.</hi>
@@ -3462,7 +3462,7 @@ When you have Compound Words or end your line, In parting Words this Mark is for
                </div>
             </div>
             <div n="2" type="part">
-               <pb facs="tcp:002997_0040_0FEFABF7C1B50EB8"/>
+               <pb facs="unknown:002997_0040_0FEFABF7C1B50EB8"/>
                <head>PART II.</head>
                <head>Arithmetick MADE EASIE Teaching the Necessary Rules thereof.</head>
                <p>ARithmetick is the Art of Numbering will, or <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -3497,7 +3497,7 @@ When you have Compound Words or end your line, In parting Words this Mark is for
                      </gap>
                   </p>
                   <p>
-                     <pb n="32" facs="tcp:002997_0041_0FEFABFB25C75360"/>
+                     <pb n="32" facs="unknown:002997_0041_0FEFABFB25C75360"/>
 All Numbers are written with the Characters, called Figures, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> which the last is called a Cypher, and of it self it signifieth nothing, but serveth (according as it is placed) to encrease or diminish the value of another figure, to which it is either annexed or prefixed.</p>
@@ -3535,7 +3535,7 @@ All Numbers are written with the Characters, called Figures, <gap reason="illegi
                   <p>The nine first of these are called significant Figures.</p>
                   <p>And the value of any Figure Increaseth in a <hi>Ducuple</hi> pre<g ref="char:EOLhyphen"/>portion from the right Hand to the left, every place being Ten times the value of the former, as you may see in the following Table.</p>
                   <p>
-                     <pb n="33" facs="tcp:002997_0042_0FEFABFD882F5E10"/>
+                     <pb n="33" facs="unknown:002997_0042_0FEFABFD882F5E10"/>
                      <table>
                         <head>A Numeration Table.</head>
                         <row>
@@ -3786,7 +3786,7 @@ All Numbers are written with the Characters, called Figures, <gap reason="illegi
                         <desc>〈…〉</desc>
                      </gap> of any Number proposed.</p>
                   <p>
-                     <pb n="34" facs="tcp:002997_0043_0FEFABFFCF7DA708"/>
+                     <pb n="34" facs="unknown:002997_0043_0FEFABFFCF7DA708"/>
 And on the right Hand of the Table over against every Number therein contained you are directed how to read of express those Numbers: As 987654321 is thus to be read, <abbr>
                         <hi>viz.</hi>
                      </abbr> 
@@ -3830,7 +3830,7 @@ And on the right Hand of the Table over against every Number therein contained y
                      </gap> proper place,—2 and 6, and proceed to <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> next Rank which is the
-<pb n="35" facs="tcp:002997_0044_0FEFAC02289196F0"/>
+<pb n="35" facs="unknown:002997_0044_0FEFAC02289196F0"/>
 Place of Teal, saying 4 and 3 is 7 wherefore I put 7 in in its proper place under the line, and proceed to the next last Rank, where I find only 1, which I put down in its proper place under the line, and so the Work is finished; and I find that the Total Sum of 136 and 42 to be 178. See the Operation in the Margenn.</p>
                   <p>
                      <table>
@@ -3874,7 +3874,7 @@ Place of Teal, saying 4 and 3 is 7 wherefore I put 7 in in its proper place unde
                         </gap>l-Trees, and be desires treatly to know new many Trees be hath in all.</hi>
                   </p>
                   <p>
-                     <pb n="36" facs="tcp:002997_0045_0FEFAC04A851C700"/>
+                     <pb n="36" facs="unknown:002997_0045_0FEFAC04A851C700"/>
 Place your Numbers <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>oot under another, at in the Margent, and then begin to add them together at your right Hand, saying 6 and 7 is 13 and 6 is 19, and 6 is 25, place 5 under the line, and carry 2 to the next Row, saying 2 and 3 is 5 and 7 is 12 and 3 is 15, place 5 under the line, and carry 1 to the next row, saying, 1 and 1 is 2 and 1 is 3, which 3 I set under the line, and (<hi>because <gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -3974,7 +3974,7 @@ Place your Numbers <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>xample,</p>
                      <p n="1">
-                        <pb n="37" facs="tcp:002997_0046_0FEFAC065EB59280"/>
+                        <pb n="37" facs="unknown:002997_0046_0FEFAC065EB59280"/>
 1. Let it be required to add together 37 <hi>l</hi> 16 <hi>s.</hi> 9 <hi>d.</hi> 3 <hi>q.</hi> and 21 <hi>l.</hi> 9 <hi>s.</hi> 8 <hi>d.</hi> 1 <hi>q.</hi> and 13 <hi>l.</hi> 12 <hi>s.</hi> 9 <hi>d.</hi> 
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -4056,7 +4056,7 @@ Place your Numbers <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> Farthings.</p>
                      <p>
-                        <pb n="38" facs="tcp:002997_0047_0FEFAC08AC462AE0"/>
+                        <pb n="38" facs="unknown:002997_0047_0FEFAC08AC462AE0"/>
                         <hi>Example</hi> 2. I have received these following several Sums of Money, and desire to know how much I have received in all.</p>
                      <p>
                         <table>
@@ -4112,7 +4112,7 @@ Place your Numbers <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <p>Here in this Example the least Denomination is Pence, therefore I begin with them and say, 11 <hi>d,</hi> and 9 <hi>d,</hi> is 20 <hi>d,</hi> (which is 1 <hi>s,</hi> and 8 <hi>d,</hi>) make 2 prick against the 9, and say, 8 <hi>d,</hi> and 8 <hi>d,</hi> is 1 <hi>s,</hi> and 4 <hi>d,</hi> make a prick, against the 8, and set down the odd 4 <hi>d</hi> under the line Then (because there are 2 Pricks in the row of Pence) you must carry 2 <hi>s.</hi> to the Place of <hi>Shillings,</hi> saying, 2 <hi>s</hi> which I carry, and 13 is 15 <hi>s</hi> and 17 is 32 <hi>s.</hi> (which is 1 <hi>l</hi> 12 <hi>s</hi>) make a prick against 17, and say, 12 <hi>s.</hi> and 16 is 28 <hi>s.</hi> make a prick against 16 and (because there are no more Numbers to be added) set down the add 8 <hi>s,</hi> under the Shillings, and (being there are 2 pricks in the row of Shillings) carry 2 to the place of <hi>Pounds,</hi> saying 2 and 1 is 3, and 2 is 5, and 9 is 14, set down 4 and carry 1 to the next row; saying 1 that I carry and 8 is 9, and 3 is 12, and 3 is 14, which (because 'tis the last) you set down 14, and your work is done. And you find that the several Sums received amount to 144 <hi>l.</hi> 8 <hi>s.</hi> 4 <hi>d,</hi>
                      </p>
                      <p>Now though I direct you to make Pricks with your Pen at every 4 in the Farthings, and at every 12 in the Pence, and at every 20 in the <hi>Shillings</hi> (which is to help your Memory) yet this way is neither so near nor com<g ref="char:EOLhyphen"/>mendable; for if you once prick it false, you must prick it over again, which will looks like so many Blots, and make you more subject to mistake, Therefore I recom<g ref="char:EOLhyphen"/>mend to you the two following Tables, to be gotten perfectly
-<pb n="39" facs="tcp:002997_0048_0FEFAC0B03F40238"/>
+<pb n="39" facs="unknown:002997_0048_0FEFAC0B03F40238"/>
 by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Pence, <hi>&amp;c.</hi> as followeth, <abbr>
                            <hi>viz.</hi>
                         </abbr>
@@ -4313,7 +4313,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                      </p>
                   </div>
                   <div type="section">
-                     <pb n="40" facs="tcp:002997_0049_0FEFAC0CADAC65E8"/>
+                     <pb n="40" facs="unknown:002997_0049_0FEFAC0CADAC65E8"/>
                      <head>II. Of Troy Weight.</head>
                      <p>
                         <hi>Troy Weight</hi> is a Weight used in <hi>Great-Britain,</hi> by which is weighed <hi>Bread, Gold, Silver, Pearl,</hi> &amp;c. The most usual Denominations of which Weight, are <hi>Pounds, Ounces, Penny<g ref="char:EOLhyphen"/>Weight</hi> and <hi>Grains;</hi> of which
@@ -4341,7 +4341,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                      </p>
                      <p>The Addition of <hi>Troy Weight</hi> (and consequently of any other Weight or Measure whatsoever, either Domestick or Foreign) differeth nothing at all from the Addition of <hi>English</hi> Coyn last taught, if the Affinity of one Denomination to another be first known; for whereas in Money, because 12 <hi>d.</hi> makes 1 <hi>s.</hi> you therefore observe how many <hi>twelves</hi> there are in the Addition of your Pence, and for every 12 you add 1 <hi>s.</hi> to the place of Shillings; so in the Addition of <hi>Troy Weight,</hi> knowing that 24 <hi>gr,</hi> make one <hi>Penny-Weight,</hi> you must there<g ref="char:EOLhyphen"/>fore in the Addition of <hi>Grains</hi> in <hi>Troy Weight,</hi> observe how many times 24 you find in your line of <hi>Grains,</hi> and for every 24 carry one to the place of Penny-weights; likewise, in the Addition of Penny-weights, you must consider how many times 20 is contained in your line, and for every 20 carry one to the Place of <hi>Ounces,</hi> (because 20 Penny weight make an <hi>Ounces</hi>) Also in the Addition of <hi>Ounces</hi> Troy, you must observe how many times 12 you find in your line or <hi>Ounces,</hi> and for every 12 carry one to the place of Pounds; Then lastly, Add your, Pounds together, as number, of one Denomination.</p>
                      <div type="examples">
-                        <pb n="41" facs="tcp:002997_0050_0FEFAC101823FE20"/>
+                        <pb n="41" facs="unknown:002997_0050_0FEFAC101823FE20"/>
                         <head>Examples for Practice.</head>
                         <p>
                            <table>
@@ -4486,7 +4486,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                      <p>In the Addition of <hi>Avoirdupois weight</hi> you must observe the very same method and Order, as in <hi>Money</hi> and <hi>Troy weight,</hi> having due respect to the Quantity of the Denomi<g ref="char:EOLhyphen"/>nation, <hi>&amp;c.</hi>
                      </p>
                      <div type="example">
-                        <pb n="42" facs="tcp:002997_0051_0FEFAC1328506B58"/>
+                        <pb n="42" facs="unknown:002997_0051_0FEFAC1328506B58"/>
                         <head>Example for Practice.</head>
                         <p>I have bought five Cask of Sugar of one man, and five Cask of another Man, all different weights, and want to know how much in all I have had of each man, In order <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
@@ -4652,7 +4652,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                      </p>
                   </div>
                   <div type="section">
-                     <pb n="43" facs="tcp:002997_0052_0FEFAC14AF045C98"/>
+                     <pb n="43" facs="unknown:002997_0052_0FEFAC14AF045C98"/>
                      <head>VII. Of <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> Measures.</head>
@@ -4781,7 +4781,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                         </gap> any one may make <hi>Addition</hi> of any the above named Coyns, Weights and Measures; And therefore I shall only set down some Examples for Practice, and so conclude and Rule of <hi>Addition.</hi>
                      </p>
                      <p>
-                        <pb n="44" facs="tcp:002997_0053_0FEFAC17046E9908"/>
+                        <pb n="44" facs="unknown:002997_0053_0FEFAC17046E9908"/>
                         <table>
                            <head>Addition of Liquid Measure.</head>
                            <row>
@@ -5064,7 +5064,7 @@ by heart, before you adventure upon Addition; As, 1 <hi>Shilling</hi> is 12 Penc
                   </p>
                   <p>
                      <hi>Example</hi> 1. First set down the greater Number (from which you would substract) and then place the lesser Number (to be substracted) under it, draw a Line, as you see done in the Margin, and begin with the first Figure towards the Right hand, (which is 6) say<g ref="char:EOLhyphen"/>ing, 6 from 9, and there remain<g ref="char:punc">▪</g> 3 <hi>s</hi>
-                     <pb n="45" facs="tcp:002997_0054_0FEFAC1A167F75E0"/>
+                     <pb n="45" facs="unknown:002997_0054_0FEFAC1A167F75E0"/>
 place 3 under the line and go to the next figure, which is 3, saying 3 from 7, and there remains 4, place 4 under the line, and go to the next figure, which is 1, saying 1 from 3 and there remains 2, place 2 under the line and your Substraction is ended.</p>
                   <p>
                      <hi>Example</hi> 2. I have borrowed 96527 <hi>l</hi> and I have paid 2976 <hi>l.</hi> and I want to know how much I have yet to pay.</p>
@@ -5097,7 +5097,7 @@ place 3 under the line and go to the next figure, which is 3, saying 3 from 7, a
                      <p>In <hi>Substraction</hi> of Numbers of Divers Denominations, you must observe the same Method as in Addition, namely, to place <hi>Pounds</hi> under <hi>Pounds, Shillings</hi> under <hi>Shillings</hi> and <hi>Pence</hi> under <hi>Pence;</hi> and always place the greatest Sum up<g ref="char:EOLhyphen"/>permost. And you must also here (as it<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> Addition) observe
-<pb n="46" facs="tcp:002997_0055_0FEFAC1B9B4D1ED8"/>
+<pb n="46" facs="unknown:002997_0055_0FEFAC1B9B4D1ED8"/>
 how many of the first Denomination make one of the second, and so on. And if the Figure or Figures be greater than those you are to substract from, borrow one from the next Denomination. The following Examples will explain it to you, And
 <table>
                            <row>
@@ -5168,7 +5168,7 @@ how many of the first Denomination make one of the second, and so on. And if the
                            <desc>•</desc>
                         </gap>ir-du-poize Weight,</head>
                      <p>For the better understanding of the Rule observe (as you did before) the Title of your Account, and where you cannot take one Number out of another, take it out of the
-<pb n="47" facs="tcp:002997_0056_0FEFAC1D2D5BBD78"/>
+<pb n="47" facs="unknown:002997_0056_0FEFAC1D2D5BBD78"/>
 next Denomination, as in the following Example of <hi>A<gap reason="illegible" resp="#AELD" extent="2 letters">
                               <desc>••</desc>
                            </gap>ir-du-poize Weight.</hi>
@@ -5282,7 +5282,7 @@ next Denomination, as in the following Example of <hi>A<gap reason="illegible" r
                         </table>
                      </p>
                      <p>
-                        <pb n="48" facs="tcp:002997_0057_0FEFAC20A04225F0"/>
+                        <pb n="48" facs="unknown:002997_0057_0FEFAC20A04225F0"/>
 Add the <hi>Number to be Substracted,</hi> 243, to <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> 
@@ -5332,7 +5332,7 @@ Add the <hi>Number to be Substracted,</hi> 243, to <gap reason="illegible" resp=
                   <p>There are three things strictly to be observed in Multi<g ref="char:EOLhyphen"/>plication, <abbr>
                         <hi>viz.</hi>
                      </abbr>
-                     <pb n="46" facs="tcp:002997_0058_0FEFAC2387255C68"/>
+                     <pb n="46" facs="unknown:002997_0058_0FEFAC2387255C68"/>
                      <table>
                         <row>
                            <cell rows="8">2 Times</cell>
@@ -5539,7 +5539,7 @@ Add the <hi>Number to be Substracted,</hi> 243, to <gap reason="illegible" resp=
                      <g ref="char:punc">▪</g> In <hi>Multiplication</hi> to <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>et down the greatest Number first, and the lesser under it, and
-<pb n="47" facs="tcp:002997_0059_0FEFAC25DCD9F898"/>
+<pb n="47" facs="unknown:002997_0059_0FEFAC25DCD9F898"/>
 then begin at the Right hand, and multip<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> every <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -5671,7 +5671,7 @@ then begin at the Right hand, and multip<gap reason="illegible" resp="#AELD" ext
                         </gap>er,</hi> cancel <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>t with a dash of the Pen, and proceed to the next
-<pb n="51" facs="tcp:002997_0060_0FEFAC2842D65950"/>
+<pb n="51" facs="unknown:002997_0060_0FEFAC2842D65950"/>
                      <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> 
@@ -5774,7 +5774,7 @@ then begin at the Right hand, and multip<gap reason="illegible" resp="#AELD" ext
                      <p>This is the common way to, Prove Multiplication; but the most certain proof is by <hi>Division,</hi> as I will hereafter shew you.</p>
                   </div>
                   <div type="section">
-                     <pb n="52" facs="tcp:002997_0061_0FEFAC29ED8273A0"/>
+                     <pb n="52" facs="unknown:002997_0061_0FEFAC29ED8273A0"/>
                      <head>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -5817,7 +5817,7 @@ then begin at the Right hand, and multip<gap reason="illegible" resp="#AELD" ext
                      </hi>
                   </p>
                   <p>There are several Ways of Dividing one Number by another,
-<pb n="53" facs="tcp:002997_0062_0FEFAC2CEECEA698"/>
+<pb n="53" facs="unknown:002997_0062_0FEFAC2CEECEA698"/>
 but I shall only insert one, which is plainer than Cancelli<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> and shorter, and is the way now commonly practised, <abbr>
@@ -5870,7 +5870,7 @@ but I shall only insert one, which is plainer than Cancelli<gap reason="illegibl
                         <desc>•</desc>
                      </gap>, which put under the 6, (drawing a line between the 26 and 5) Then make a prick under the next Figure, toward the right hand, in the <hi>Dividend;</hi> 
                      <abbr>viz.</abbr> under 4, and place it to the
-<pb n="54" facs="tcp:002997_0063_0FEFAC2F5506CC18"/>
+<pb n="54" facs="unknown:002997_0063_0FEFAC2F5506CC18"/>
 right hand of the Remainder 5, making it 54, and ask how often the <hi>Divisor,</hi> 7, can be had in 54? <hi>Answer,</hi> 7 times; which put in the <hi>Quotient,</hi> and say 5 times 7 is 49, from 54, and there rests 5; which put under a line, a<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> before. <hi>Lastly,</hi> make a prick under the 2 in the <hi>Dividend,</hi> and place it to the Right-hand of the 5, and ask how often the <hi>Divisor</hi> 7 can be had in 52? the answer is, 7 times, which put in the <hi>Quotient,</hi> and Multiply the <hi>Divisor</hi> thereby<g ref="char:punc">▪</g> saying, 7 times 7 is 49; which deduct from the 52, and the Remainer is 3; and you have no more Figures in the <hi>Dividend,</hi> So the Work is finished; and I find that 5377 is one seventh part of <gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -5904,7 +5904,7 @@ right hand of the Remainder 5, making it 54, and ask how often the <hi>Divisor,<
                      </gap>igure 2 down to the 2<hi>d Remainder,</hi> 4, which makes it 42. <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> I ask how many times 7 (the <hi>Divisor</hi>)
-<pb n="55" facs="tcp:002997_0064_0FEFAC31D3262D08"/>
+<pb n="55" facs="unknown:002997_0064_0FEFAC31D3262D08"/>
 I can have in 42? 'twill be 6 times; I set 6 in the Quotient, and Multiply (the <hi>Divisor</hi>) <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>7 by i<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -5933,7 +5933,7 @@ I can have in 42? 'twill be 6 times; I set 6 in the Quotient, and Multiply (the 
                         <desc>•</desc>
                      </gap>, in the Quotient. And,</p>
                   <p n="4">4<hi>thly,</hi> I make a prick under 8 (the last figure in the <hi>Dividend</hi>) and bring that 8 down to 14, making it 148
-<pb n="56" facs="tcp:002997_0065_0FEFAC3485A6BF30"/>
+<pb n="56" facs="unknown:002997_0065_0FEFAC3485A6BF30"/>
 Then I seek how many times 37 I can have in 148 (or how many times 3 in 14) I find 4 times, which I put in the <hi>Quotient,</hi> and multiply 37 (the <hi>Divisor</hi>) by 4, &amp; the <hi>Product</hi> will be 148, which set under 148, and substracting it there from, there remains, 0. And the <hi>Division</hi> is ended.</p>
                   <p>Now if you would prove whether your Division be truly wrought, or not,
 <table>
@@ -5995,7 +5995,7 @@ Then I seek how many times 37 I can have in 148 (or how many times 3 in 14) I fi
                   </p>
                   <p>Secondly all <hi>small</hi> Names are brought into <hi>great</hi> by <hi>Divi<g ref="char:EOLhyphen"/>sion,</hi> as</p>
                   <p>
-                     <pb n="57" facs="tcp:002997_0066_0FEFAC37A59E2C38"/>
+                     <pb n="57" facs="unknown:002997_0066_0FEFAC37A59E2C38"/>
                      <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -6066,7 +6066,7 @@ Then I seek how many times 37 I can have in 148 (or how many times 3 in 14) I fi
                      </gap>
                   </p>
                   <p>
-                     <pb n="58" facs="tcp:002997_0067_0FEFAC39A6BC5DD8"/>
+                     <pb n="58" facs="unknown:002997_0067_0FEFAC39A6BC5DD8"/>
 Here you see, <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -6098,7 +6098,7 @@ Here you see, <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <p>Therefore observe, <hi>first,</hi> That what you desire to know, or to be resolved in the Question, must be your <hi>Third</hi> Num<g ref="char:EOLhyphen"/>ber: and you have commonly these Words before it, as <hi>What cost? How long? How broad? How much? How deep?</hi> &amp;c.</p>
                   <p n="2">2. Your Question being stated, bring your <hi>first</hi> and <hi>third</hi> Numbers into one Denomination.</p>
                   <p n="3">
-                     <pb n="59" facs="tcp:002997_0068_0FEFAC3C113BF108"/>
+                     <pb n="59" facs="unknown:002997_0068_0FEFAC3C113BF108"/>
 3. Being your <hi>second</hi> into the least Name mentioned<g ref="char:punc">▪</g> 
                      <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
@@ -6173,7 +6173,7 @@ Here you see, <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <hi>viz<g ref="char:punc">▪</g>
                         </hi>
                      </abbr> 7 <hi>C.</hi> and
-<pb n="60" facs="tcp:002997_0069_0FEFAC3F8F097108"/>
+<pb n="60" facs="unknown:002997_0069_0FEFAC3F8F097108"/>
                      <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>
@@ -6243,7 +6243,7 @@ Here you see, <gap reason="illegible" resp="#AELD" extent="1 letter">
                      </gap>
                   </p>
                   <p>
-                     <pb n="61" facs="tcp:002997_0070_0FEFAC426E021F38"/>
+                     <pb n="61" facs="unknown:002997_0070_0FEFAC426E021F38"/>
 Every Sheep will cost 146 <hi>Pence,</hi> which Pen<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>e being divided by 12 produces 13 <hi>
@@ -6306,7 +6306,7 @@ Every Sheep will cost 146 <hi>Pence,</hi> which Pen<gap reason="illegible" resp=
                      </hi> because the last <hi>Quoti<g ref="char:EOLhyphen"/>ent</hi> was Pounds, and the Pro<g ref="char:EOLhyphen"/>duct is 160, which I divide by 13 (the first Number in the <hi>Question</hi>) and in quotes 12, which are 12 <hi>s,</hi>
                   </p>
                   <p>And there is yet a Remainder of 4, which I multiply by 12 <hi>d,</hi> because the last <hi>Quotient</hi> was shillings and the Product is 48, which I divide by 13 the
-<pb n="62" facs="tcp:002997_0071_0FEFAC440602A2A0"/>
+<pb n="62" facs="unknown:002997_0071_0FEFAC440602A2A0"/>
 first number, and the <hi>Quoti<gap reason="illegible" resp="#AELD" extent="3 letters">
                            <desc>•••</desc>
                         </gap>
@@ -6337,7 +6337,7 @@ first number, and the <hi>Quoti<gap reason="illegible" resp="#AELD" extent="3 le
                         </gap> Men be doing the same?</hi>
                   </p>
                   <p>
-                     <pb n="63" facs="tcp:002997_0072_0FEFAC46A3CDBDB0"/>
+                     <pb n="63" facs="unknown:002997_0072_0FEFAC46A3CDBDB0"/>
 This Question is stated four several ways by which <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> one is a proof of the other,</p>
@@ -6347,7 +6347,7 @@ This Question is stated four several ways by which <gap reason="illegible" resp=
                   </p>
                </div>
                <div type="table">
-                  <pb n="64" facs="tcp:002997_0073_0FEFAC49E7F508D0"/>
+                  <pb n="64" facs="unknown:002997_0073_0FEFAC49E7F508D0"/>
                   <head>A Table for Buying and Solding any thing by the Hundred.</head>
                   <p>
                      <table>
@@ -6943,7 +6943,7 @@ This Question is stated four several ways by which <gap reason="illegible" resp=
                         <desc>•</desc>
                      </gap>st Column, you shall find 7 <hi>d.</hi> 1 <hi>qr</hi> and so much it is by the Pound.</p>
                   <p>
-                     <pb n="65" facs="tcp:002997_0074_0FEFAC4B723689B8"/>
+                     <pb n="65" facs="unknown:002997_0074_0FEFAC4B723689B8"/>
 Example <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>.</p>
@@ -7214,7 +7214,7 @@ Example <gap reason="illegible" resp="#AELD" extent="2 letters">
                   </p>
                </div>
                <div type="table">
-                  <pb n="66" facs="tcp:002997_0075_0FEFAC4F8CA6A9A8"/>
+                  <pb n="66" facs="unknown:002997_0075_0FEFAC4F8CA6A9A8"/>
                   <p>A Table shewing how many Inches in length will make a Foot Solid of a Round Piece o<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> Timber, the Girt being known, from one Foot to six.</p>
@@ -7518,7 +7518,7 @@ Example <gap reason="illegible" resp="#AELD" extent="2 letters">
                   </p>
                </div>
                <div type="table">
-                  <pb n="67" facs="tcp:002997_0076_0FEFAC514AF95380"/>
+                  <pb n="67" facs="unknown:002997_0076_0FEFAC514AF95380"/>
                   <head>The Use of the Table of Round Timber-Measure.</head>
                   <p>
                      <table>
@@ -7742,7 +7742,7 @@ Example <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> 792 <hi>Inches.</hi> It is divided into 100 Links, at every 10 Links
-<pb n="68" facs="tcp:002997_0077_0FEFAC52EA4E2B70"/>
+<pb n="68" facs="unknown:002997_0077_0FEFAC52EA4E2B70"/>
 is a Brass Ring, for the more ready counting in Measuring, so that its no matter which end of the Chain goes foremost. But he that draws the Chain should carry in his hand ten small sticks to stick in the ground at every Chain's length, and he that follows the Chain should gather up the sticks.</p>
                      <p>
                         <hi>Suppose the Length of a piece of ground be</hi> 9 <hi>Chains</hi> 50 <hi>Links, the Breadth</hi> 6 <hi>Chains</hi> 25 <hi>Links, How many Acres, Rods and Poles is there in this piece of Ground?</hi>
@@ -7764,7 +7764,7 @@ is a Brass Ring, for the more ready counting in Measuring, so that its no matter
                         <hi>Note,</hi> That if any length or breadth taken by the Chain the Links be under <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, add a Cypher to the left hand thereof, before you begin to Multiply. And whereas there was no<g ref="char:EOLhyphen"/>thing
-<pb n="69" facs="tcp:002997_0078_0FEFAC549B672EB8"/>
+<pb n="69" facs="unknown:002997_0078_0FEFAC549B672EB8"/>
 but Cyphers <gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>t off from the 30 Poles (above) but if they had been Figures, as suppose 34762, there would want of a Pole so much as that S<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -7829,7 +7829,7 @@ but Cyphers <gap reason="illegible" resp="#AELD" extent="2 letters">
                      </gap>
                   </p>
                   <p>
-                     <pb n="70" facs="tcp:002997_0079_0FEFAC58E274D4D0"/>
+                     <pb n="70" facs="unknown:002997_0079_0FEFAC58E274D4D0"/>
 And from this Product out off 7 figures (<hi>always</hi>) or places to the Right-Hand, (which are the parts of a Gallon) and those on the Left Hand are Gallons, as in this Example is <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Gallons.</p>
@@ -7905,7 +7905,7 @@ And from this Product out off 7 figures (<hi>always</hi>) or places to the Right
                         <desc>〈◊〉</desc>
                      </gap>.</p>
                   <p>
-                     <pb n="71" facs="tcp:002997_0080_0FEFAC5B33314D08"/>
+                     <pb n="71" facs="unknown:002997_0080_0FEFAC5B33314D08"/>
                      <table>
                         <head>A Table of Interest, at 8 per Cent, from 20 s. to 100 l.</head>
                         <row>
@@ -8379,7 +8379,7 @@ And from this Product out off 7 figures (<hi>always</hi>) or places to the Right
                   </p>
                </div>
                <div type="postal_rates">
-                  <pb n="72" facs="tcp:002997_0081_0FEFAC5CC0D19070"/>
+                  <pb n="72" facs="unknown:002997_0081_0FEFAC5CC0D19070"/>
                   <head>The Rates of Post-Letters in North-America, settled by Act of Parliament.</head>
                   <p>ALL single Letters passing from <hi>London,</hi> pays 12 <hi>d.</hi> Pac<g ref="char:EOLhyphen"/>quets 6 <hi>s.</hi> Per Ounce.</p>
                   <p>From <hi>London</hi> to <hi>New York,</hi> 1 <hi>s.</hi> Pacquets 4<hi>s. per Ouz.</hi>
@@ -8432,7 +8432,7 @@ And from this Product out off 7 figures (<hi>always</hi>) or places to the Right
                   </p>
                </div>
                <div type="table">
-                  <pb n="73" facs="tcp:002997_0082_0FEFAC5E5C24FC90"/>
+                  <pb n="73" facs="unknown:002997_0082_0FEFAC5E5C24FC90"/>
                   <p>
                      <table>
                         <head>A Table of interest, at <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -8870,7 +8870,7 @@ And from this Product out off 7 figures (<hi>always</hi>) or places to the Right
                      </gap>est.</p>
                </div>
                <div type="explanation">
-                  <pb n="74" facs="tcp:002997_0083_0FEFAC62403D4B68"/>
+                  <pb n="74" facs="unknown:002997_0083_0FEFAC62403D4B68"/>
                   <head>Of Women, Children and Servants.</head>
                   <p>BY the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -8904,7 +8904,7 @@ And from this Product out off 7 figures (<hi>always</hi>) or places to the Right
                   <p>A Woman cannot hope to have the Thirds of her Husbands Land, which he Mortgaged before Marriage, until the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="75" facs="tcp:002997_0084_0FEFAC64839CE188"/>
+                     <pb n="75" facs="unknown:002997_0084_0FEFAC64839CE188"/>
 paid, and Mortgage be Cancelled.</p>
                   <p>If a Man and Wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -8943,7 +8943,7 @@ paid, and Mortgage be Cancelled.</p>
                         <desc>••</desc>
                      </gap>y, &amp;c.</p>
                   <div type="section">
-                     <pb n="76" facs="tcp:002997_0085_0FEFAC66DA172748"/>
+                     <pb n="76" facs="unknown:002997_0085_0FEFAC66DA172748"/>
                      <head>Of Children.</head>
                      <p>AS Husbands have an absolute Authority over their Wives and Estates, so Ea<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -8969,7 +8969,7 @@ paid, and Mortgage be Cancelled.</p>
                      </p>
                   </div>
                   <div type="section">
-                     <pb n="77" facs="tcp:002997_0086_0FEFAC69C8B19600"/>
+                     <pb n="77" facs="unknown:002997_0086_0FEFAC69C8B19600"/>
                      <head>Of Servants.</head>
                      <p>SErvants in the <hi>Sax<gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
@@ -9005,7 +9005,7 @@ paid, and Mortgage be Cancelled.</p>
                         <desc>〈◊〉</desc>
                      </gap>,</p>
                   <p>
-                     <pb n="78" facs="tcp:002997_0087_0FEFAC6C5CAB91B0"/>
+                     <pb n="78" facs="unknown:002997_0087_0FEFAC6C5CAB91B0"/>
 The <hi>Saxons,</hi> and after them the <hi>Normans,</hi> owned five Pop<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>s Authority; and after King <hi>John</hi> had basely subjected his Crown to the Pope, <hi>England</hi> was, till the Reformation, one of the Tamest Countries that any where submitted to the <hi>Romans Yo<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -9043,7 +9043,7 @@ The <hi>Saxons,</hi> and after them the <hi>Normans,</hi> owned five Pop<gap rea
                      </gap> Same enjoys Poverty to his Disciples,) that in his own <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="79" facs="tcp:002997_0088_0FEFAC6DF2F9D9B8"/>
+                     <pb n="79" facs="unknown:002997_0088_0FEFAC6DF2F9D9B8"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> he erected Twelve Monasteries, and give himself the Humble Tale of <hi>Patriarch of the Sacred Religion, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -9120,7 +9120,7 @@ The <hi>Saxons,</hi> and after them the <hi>Normans,</hi> owned five Pop<gap rea
                      </gap>eized upon all the Monasteries and Religious Houses, and divided their Lands amongst the <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="80" facs="tcp:002997_0089_0FEFAC71748FB040"/>
+                     <pb n="80" facs="unknown:002997_0089_0FEFAC71748FB040"/>
                      <hi>Papist,</hi> and the Reformation went on but slowly; but in King <hi>Edward</hi> the sixths Reign it gain'd more ground, and the Superstitions of <hi>Popery</hi> were almost abolished. He dyes, and then Queen <hi>Mary</hi> coming to the Crown, <hi>Popery</hi> was again Revived, and during the five years that she Reigned, above Five Hundred <hi>Protestants</hi> were burnt for their <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Con<g ref="char:EOLhyphen"/>forming to <hi>Popery<g ref="char:punc">▪</g>
@@ -9180,7 +9180,7 @@ The <hi>Saxons,</hi> and after them the <hi>Normans,</hi> owned five Pop<gap rea
                      </gap> difference between them. In the Doctrinal <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> they agree with the <hi>Church of England,</hi> as her
-<pb n="81" facs="tcp:002997_0090_0FEFAC73D4ED48D8"/>
+<pb n="81" facs="unknown:002997_0090_0FEFAC73D4ED48D8"/>
 Doctrines are set down in the 39 <hi>Articles of Religion:</hi> The Differences he chiefly in the outward Administration of P<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -9234,7 +9234,7 @@ Doctrines are set down in the 39 <hi>Articles of Religion:</hi> The Differences 
                      </gap>, which they now seem to correct, and by their late Writings and Preaching they seem to own all the Fundamentals of <hi>Christianity.</hi> The best account we have of their Principles is in a Book, entitled, <hi>An Apology <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> the true Christian Divinity<g ref="char:punc">▪</g> as held forth by the People called Quakers,</hi> writ by <hi>Robert Barclay,</hi> which he dedicated to K.
-<pb n="82" facs="tcp:002997_0091_0FEFAC761F917778"/>
+<pb n="82" facs="unknown:002997_0091_0FEFAC761F917778"/>
                      <hi>Charles</hi> the <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>d: some who have read over that Apology<g ref="char:punc">▪</g> think it to be a Charitable and Reasonable System; for they are of Opinion, that it solves the numerous Difficulties raised by other Sects, and by Turns shews all part<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -9277,7 +9277,7 @@ Doctrines are set down in the 39 <hi>Articles of Religion:</hi> The Differences 
                      </gap> and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the same, That then this same Grace
-<pb n="83" facs="tcp:002997_0092_0FEFAC77C6C9DE88"/>
+<pb n="83" facs="unknown:002997_0092_0FEFAC77C6C9DE88"/>
 and Spirit of God and Christ draws and inclines many to Teach, Instruct<g ref="char:punc">▪</g> Reprove, Admonish and Exhort others, both as to Life and Doctrine, and to be Obedient to this inward Teacher and Instructor, which, through Faith in Christ will clease and sanctifie them, and by which they may work out their Salvation<g ref="char:punc">▪</g> And this (they say) is the True Call to the Ministry.</p>
                   <p>They are a distinct Political Body of People; governed with great Regularity by Laws of their own making, and hold the strictest Correspondence of any Society now in be<g ref="char:EOLhyphen"/>ing, and there appeals to be a more particular Love and Respect, and more Hospitality among them than there is in any other Society in Christendom.</p>
                   <p>For the first Ten years after their Appearance, in the World, many of them in their Meetings were seized with strange Shakings and Convulsions, but these Motions are not now common among them. But from these S<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -9296,7 +9296,7 @@ and Spirit of God and Christ draws and inclines many to Teach, Instruct<g ref="c
                      <hi>Monthly, Quarterly, Yearly, Second-Days Meetings,</hi> and <hi>Meetings for Sufferings.</hi>
                   </p>
                   <p>Their <hi>Monthly</hi> and <hi>Quarterly-Meetings</hi> are held in the several Counties in which they live (both in <hi>Europe</hi> and <hi>America</hi>) according as their Settlements are more or less Nu<g ref="char:EOLhyphen"/>merous. In their <hi>Monthly Meetings</hi> they take care of their Poor, take care to Reconcile Differences, examine into
-<pb n="84" facs="tcp:002997_0093_0FEFAC7B86EF19C8"/>
+<pb n="84" facs="unknown:002997_0093_0FEFAC7B86EF19C8"/>
 Marriages, as to the Parties being clear of others, and having consent of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, <hi>&amp;c</hi> and enquire into the Conversatio<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -9342,7 +9342,7 @@ Marriages, as to the Parties being clear of others, and having consent of <gap r
                   <p>The <hi>Second Days-Meeting</hi> is a standing Committee resi<g ref="char:EOLhyphen"/>ding in <hi>London,</hi> which meets every <hi>Monday</hi> in the year; <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Business is to attend every Exigency relating to the Body of that People, from one Yearly Meeting to another;
-<pb n="85" facs="tcp:002997_0094_0FEF96DC88E30258"/>
+<pb n="85" facs="unknown:002997_0094_0FEF96DC88E30258"/>
 but more particularly they are to Examine, Approve and Lisen<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>e all Books to be Printed or Reprinted, <hi>&amp;c.</hi>
@@ -9374,7 +9374,7 @@ but more particularly they are to Examine, Approve and Lisen<gap reason="illegib
                </div>
             </div>
             <div n="3" type="part">
-               <pb n="86" facs="tcp:002997_0095_0FEFAC7EA46B0368"/>
+               <pb n="86" facs="unknown:002997_0095_0FEFAC7EA46B0368"/>
                <head>PART III.</head>
                <head>The Young Secretary's Guide,</head>
                <head type="sub">Instructing him in Writing &amp; Inditing Letters upon most Subjects, whether Trade, Traffick or otherwise, <hi>&amp;c</hi>
@@ -9446,7 +9446,7 @@ but more particularly they are to Examine, Approve and Lisen<gap reason="illegib
                      </gap>, I shall therefore here present <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap> some
-<pb n="87" facs="tcp:002997_0096_0FEFAC81D8F6F9D8"/>
+<pb n="87" facs="unknown:002997_0096_0FEFAC81D8F6F9D8"/>
 Copies of Useful and Necessary</hi> Letters, <hi>ad<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>pted to the Affairs and Occasions, that may happen. And herein you <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -9493,7 +9493,7 @@ Copies of Useful and Necessary</hi> Letters, <hi>ad<gap reason="illegible" resp=
                      </gap> humble Gratulation and thankful Remembrance of your great Love and Respect shew<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>d on me, from time to time<g ref="char:punc">▪</g>
-                     <pb n="88" facs="tcp:002997_0097_0FEFAC859154D808"/>
+                     <pb n="88" facs="unknown:002997_0097_0FEFAC859154D808"/>
 hoping it may gain esteem and acceptation with you, do, <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap>, yet an all Humility, rest, subscribing my self,</p>
@@ -9537,7 +9537,7 @@ hoping it may gain esteem and acceptation with you, do, <gap reason="illegible" 
                   </closer>
                </div>
                <div type="letter">
-                  <pb n="89" facs="tcp:002997_0098_0FEFAC87FAA127C0"/>
+                  <pb n="89" facs="unknown:002997_0098_0FEFAC87FAA127C0"/>
                   <head>A Letter of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> from a <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -9611,7 +9611,7 @@ hoping it may gain esteem and acceptation with you, do, <gap reason="illegible" 
                         </gap> other Qualifications, that I cannot but imagine, <gap reason="illegible" resp="#AELD" extent="2 words">
                            <desc>〈◊◊〉</desc>
                         </gap>
-                        <pb n="90" facs="tcp:002997_0099_0FEFAC8A63A2E108"/>
+                        <pb n="90" facs="unknown:002997_0099_0FEFAC8A63A2E108"/>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, not only of what I have already gained, but what I may further acquire by a <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -9705,7 +9705,7 @@ hoping it may gain esteem and acceptation with you, do, <gap reason="illegible" 
                      </gap> of God, and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="91" facs="tcp:002997_0100_0FEFACB122284B10"/>
+                     <pb n="91" facs="unknown:002997_0100_0FEFACB122284B10"/>
 of Understanding, and will, past all adventure, render me acceptable on sundry<g ref="char:punc">▪</g> Occasions, with Gods Blessing; where<g ref="char:EOLhyphen"/>fore I must applaud that compelling Goodness in you, by which you even Obliged me to perseve<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> in Learning what I had begun; though then, indeed, (not discerning wh<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -9829,7 +9829,7 @@ of Understanding, and will, past all adventure, render me acceptable on sundry<g
                      </gap>. I must <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="92" facs="tcp:002997_0101_0FEFACB48C432130"/>
+                     <pb n="92" facs="unknown:002997_0101_0FEFACB48C432130"/>
 you, and in some measu<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>e insinuate it self into your good opinion, <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -9922,7 +9922,7 @@ you, and in some measu<gap reason="illegible" resp="#AELD" extent="1 letter">
                   </closer>
                </div>
                <div type="letter">
-                  <pb n="93" facs="tcp:002997_0102_0FEFACB6277C5E30"/>
+                  <pb n="93" facs="unknown:002997_0102_0FEFACB6277C5E30"/>
                   <head>A Letter of Thanks returned for the Advancement of a Person.</head>
                   <opener>
                      <salute>SIR,</salute>
@@ -9983,7 +9983,7 @@ you, and in some measu<gap reason="illegible" resp="#AELD" extent="1 letter">
                   </closer>
                </div>
                <div type="letter">
-                  <pb n="94" facs="tcp:002997_0103_0FEFACB8B0AFD248"/>
+                  <pb n="94" facs="unknown:002997_0103_0FEFACB8B0AFD248"/>
                   <head>Another.</head>
                   <opener>
                      <salute>SIR,</salute>
@@ -10053,7 +10053,7 @@ you, and in some measu<gap reason="illegible" resp="#AELD" extent="1 letter">
                      </gap> such a <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>,
-<pb n="95" facs="tcp:002997_0104_0FEFACBB09B9E610"/>
+<pb n="95" facs="unknown:002997_0104_0FEFACBB09B9E610"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> he shall have no cause to <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -10134,7 +10134,7 @@ you, and in some measu<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>
                      <g ref="char:punc">▪</g> nor, indeed, could you have required it at a
-<pb n="96" facs="tcp:002997_0105_0FEFAC9F76A66310"/>
+<pb n="96" facs="unknown:002997_0105_0FEFAC9F76A66310"/>
 more seasonable Time, wherefore, not to give you any Delay, I have <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> by your Bearer what you desired, and shall always be glad to oblige you in this Kind, as far as my Ability will extend. And so, with my hearty good Will to<g ref="char:EOLhyphen"/>wards you, and good Wishes for the Prosperity of your Affaire, I remain,</p>
@@ -10200,7 +10200,7 @@ more seasonable Time, wherefore, not to give you any Delay, I have <gap reason="
                      <g ref="char:punc">▪</g> I would have you to mention what Money remains unpaid, for, by certain knowledge, (for <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> of which) some poor Country Tradesmen have
-<pb n="9" facs="tcp:002997_0106_0FEFACBE59A5BC20"/>
+<pb n="9" facs="unknown:002997_0106_0FEFACBE59A5BC20"/>
 found great Loss either by the Masters o<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> their Apprentice receiving the Money sent, never mentioning for what Goods Pray take it not <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -10257,7 +10257,7 @@ found great Loss either by the Masters o<gap reason="illegible" resp="#AELD" ext
                         </gap> M. having been <gap reason="illegible" resp="#AELD" extent="2 words">
                            <desc>〈◊◊〉</desc>
                         </gap> these
-<pb n="98" facs="tcp:002997_0107_0FEFACA3699CE4A0"/>
+<pb n="98" facs="unknown:002997_0107_0FEFACA3699CE4A0"/>
 several Weeks past, and being committed to my <gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>re, I could not have the Opportunity to be with you, tho',</hi> dear Child, <hi>my thoughts have often accompanied you; nor am I ignorant what is convenient for your accomplishment in—Wherefore rest contented for a few Days, and you shall find my Promise made good. As for the Necessaries that are suitable for what is intended, I have already given order, and you need not doubt of my <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -10305,7 +10305,7 @@ several Weeks past, and being committed to my <gap reason="illegible" resp="#AEL
                   <p>I Took this occasion to write to you, to let you under<g ref="char:EOLhyphen"/>stand, that I have accomplish'<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> the business you gave me
-<pb n="99" facs="tcp:002997_0108_0FEFACC1E97236D8"/>
+<pb n="99" facs="unknown:002997_0108_0FEFACC1E97236D8"/>
                      <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>rections to undertake, when you went out of Town: And <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -10381,7 +10381,7 @@ several Weeks past, and being committed to my <gap reason="illegible" resp="#AEL
                      </gap>ll things, and through whose Indust<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>y, and my own, I doubt not but to thrive in the World; and that we may the
-<pb n="100" facs="tcp:002997_0109_0FEF97013908A5A0"/>
+<pb n="100" facs="unknown:002997_0109_0FEF97013908A5A0"/>
 better do <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, I entreat you to send us your Blessing at lea<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -10465,7 +10465,7 @@ better do <gap reason="illegible" resp="#AELD" extent="1 word">
                   <p>EVer since I heard the News, that you had changed your Condition, I have even long'd for an opportunity to tell you how pleasing it was to me to hear that you have changed for the better, who, as a kind Brother, do partici<g ref="char:EOLhyphen"/>pate wish you in your Happiness, being fully perswaded of the Reality thereof; for had you put it into my Power to make your Choice, I could not have laid your Lot in a <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap>; wherefore I cannot forbear to Congratulate your good
-<pb n="101" facs="tcp:002997_0110_0FEFACC39EC2CD38"/>
+<pb n="101" facs="unknown:002997_0110_0FEFACC39EC2CD38"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, as being constrained to express a more than ordinary Joy upon the Prospect of her present and futur<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -10568,7 +10568,7 @@ better do <gap reason="illegible" resp="#AELD" extent="1 word">
                      </gap>, that I <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> in
-<pb n="102" facs="tcp:002997_0111_0FEFACC63ADDDEB8"/>
+<pb n="102" facs="unknown:002997_0111_0FEFACC63ADDDEB8"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>eed of <gap reason="blank" extent="1 word">
@@ -10658,7 +10658,7 @@ better do <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊◊〉</desc>
                      </gap>
                      <g ref="char:punc">▪</g>
-                     <pb n="103" facs="tcp:002997_0112_0FEFACC8C852FB40"/>
+                     <pb n="103" facs="unknown:002997_0112_0FEFACC8C852FB40"/>
 our Children, and all our Friends and Relations, I remain<g ref="char:punc">▪</g>
                   </p>
                   <closer>
@@ -10717,7 +10717,7 @@ our Children, and all our Friends and Relations, I remain<g ref="char:punc">▪<
                   </closer>
                </div>
                <div type="letter">
-                  <pb n="104" facs="tcp:002997_0113_0FEFACCB4C1F7848"/>
+                  <pb n="104" facs="unknown:002997_0113_0FEFACCB4C1F7848"/>
                   <head>The Answer &amp;c.</head>
                   <opener>
                      <salute>Kind Sister;</salute>
@@ -10752,7 +10752,7 @@ our Children, and all our Friends and Relations, I remain<g ref="char:punc">▪<
                      </gap> sundry sorts of goods which I want in my way of Trade, make <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>old to essay a Trade with you, so as in a small Parcel to become your Chap-man; my stock is not great, neither will many vend in this place; therefore I pray you to send me—or to the value of about 05 <hi>l.</hi> worth,
-<pb n="105" facs="tcp:002997_0114_0FEFACCE4C4AA6F8"/>
+<pb n="105" facs="unknown:002997_0114_0FEFACCE4C4AA6F8"/>
 and as they prove shall deal further with you: The lowest Price send, as also the time of Payment, and I shall endea<g ref="char:EOLhyphen"/>vour to be punctual. I am,</p>
                   <closer>
                      <signed>Your humble Servant, <hi>G. D.</hi>
@@ -10795,7 +10795,7 @@ and as they prove shall deal further with you: The lowest Price send, as also th
                   <p>SInce mine of the 28th of the last Mouth, I have yours of the <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>th Instant, and refer you to what I have already written in answer to your said Letter. This serves at present to desire you to supply my very good Friend Mr. <hi>N. H.</hi> with
-<pb n="106" facs="tcp:002997_0115_0FEFACCFEBCC1CC8"/>
+<pb n="106" facs="unknown:002997_0115_0FEFACCFEBCC1CC8"/>
 what Money he shall have occasion for not exceeding the Sum of—taking his Bill or Bills of Exchange for the same, and put it to my Account; and this my Letter of Credit shall be your sufficient Warrant for so doing.</p>
                   <closer>
                      <signed>
@@ -10854,7 +10854,7 @@ what Money he shall have occasion for not exceeding the Sum of—taking his Bill
                      </gap>ciously Tr<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>duced Your Son, on purpose to beget in You a Causless
-<pb n="107" facs="tcp:002997_0116_0FEFACD428793C90"/>
+<pb n="107" facs="unknown:002997_0116_0FEFACD428793C90"/>
 Aversion towards him. I have all along had an Eye upon him, and have with Pleasure beh<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ld how Inoffensively he has been in all his Actions: His sober Conversation and civil Carriage is particularly taken Notice of by all the Neighbours: And therefore I wonder with <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -10925,7 +10925,7 @@ Aversion towards him. I have all along had an Eye upon him, and have with Pleasu
                   </closer>
                </div>
                <div type="letter">
-                  <pb n="108" facs="tcp:002997_0117_0FEFACD6842C0610"/>
+                  <pb n="108" facs="unknown:002997_0117_0FEFACD6842C0610"/>
                   <head>A Letter from <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> Country C<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -10986,7 +10986,7 @@ Aversion towards him. I have all along had an Eye upon him, and have with Pleasu
                      </gap> Orator for Life; our Hands still bu<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ie, whilst our Hearts
-<pb n="109" facs="tcp:002997_0118_0FEFACD80FD11280"/>
+<pb n="109" facs="unknown:002997_0118_0FEFACD80FD11280"/>
 dispaired: At last the mighty Rul<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>r of the Ocean commanded the Proud Waves, and they were Still. But yet <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -11039,7 +11039,7 @@ dispaired: At last the mighty Rul<gap reason="illegible" resp="#AELD" extent="1 
                      <salute>Madam,</salute>
                   </opener>
                   <p>TIs in vain to contend with my Judge: And therefore, tho' I know my Fault has been aggravated beyond what
-<pb n="110" facs="tcp:002997_0119_0FEFACDA9B7F3710"/>
+<pb n="110" facs="unknown:002997_0119_0FEFACDA9B7F3710"/>
 it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ear? yet I will rather submit my self <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -11154,7 +11154,7 @@ it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                      </gap>. And for that Reason, upon your Profession <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="111" facs="tcp:002997_0120_0FEFACDEAC5A8DA0"/>
+                     <pb n="111" facs="unknown:002997_0120_0FEFACDEAC5A8DA0"/>
                      <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> And th<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -11292,7 +11292,7 @@ it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                   </postscript>
                </div>
                <div type="letter">
-                  <pb n="112" facs="tcp:002997_0121_0FEFACE0D45B22C8"/>
+                  <pb n="112" facs="unknown:002997_0121_0FEFACE0D45B22C8"/>
                   <head>The Lady's Answer.</head>
                   <opener>
                      <salute>SIR;</salute>
@@ -11399,7 +11399,7 @@ it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                      </hi> of Old, quietly <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="113" facs="tcp:002997_0122_0FEFACE3CFADFA20"/>
+                     <pb n="113" facs="unknown:002997_0122_0FEFACE3CFADFA20"/>
                      <hi>The Lord has given, and the Lord has taken away; and blessed be the Name of the Lord.</hi> And since God himself has pro<g ref="char:EOLhyphen"/>mised <hi>To be a Husband to the Widow,</hi> you cannot but own, you have changed for the better, and so, without doubt, ha<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> your Husband also; for though he has left a Prudent Wife behind him, yet we need no<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -11496,7 +11496,7 @@ it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                   </lg>
                </div>
                <div type="superscriptions">
-                  <pb n="114" facs="tcp:002997_0123_0FEFACE65A02D040"/>
+                  <pb n="114" facs="unknown:002997_0123_0FEFACE65A02D040"/>
                   <head>Superscriptions of Letters</head>
                   <p>
                      <hi>Instructions for External and Internal Super and Sub<g ref="char:EOLhyphen"/>scriptions of Letters.</hi>
@@ -11555,7 +11555,7 @@ it would justly <gap reason="illegible" resp="#AELD" extent="1 letter">
                      </gap>t, <hi>Sir,</hi> or <hi>May it please Your Worship,</hi> And to his Lady, <hi>Madam,</hi> or <hi>May it please Your Ladyship.</hi>
                   </p>
                   <p>
-                     <pb n="115" facs="tcp:002997_0124_0FEFACE9A09DF5D8"/>
+                     <pb n="115" facs="unknown:002997_0124_0FEFACE9A09DF5D8"/>
 To a Knight, <hi>Sir,</hi> or <hi>Right Worshipful.</hi>
                   </p>
                   <p>And to his Lady, <hi>Madam,</hi> or <hi>May it please Your Lady<g ref="char:EOLhyphen"/>ship.</hi>
@@ -11637,7 +11637,7 @@ To a Knight, <hi>Sir,</hi> or <hi>Right Worshipful.</hi>
                      </gap> the Immediate Heirs,) with less than the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> of <hi>Ho<g ref="char:EOLhyphen"/>nourable,</hi> as being their due by Birth-right; and to a Knight
-<pb n="116" facs="tcp:002997_0125_0FEFACECB7B809C0"/>
+<pb n="116" facs="unknown:002997_0125_0FEFACECB7B809C0"/>
 and Barrone<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>, by Virtue of his Patent the Title of <hi>Honourable</hi> and <hi>right Worshipful</hi> 
@@ -11702,7 +11702,7 @@ and Barrone<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="117" facs="tcp:002997_0126_0FEFAC9C426D5298"/>
+                     <pb n="117" facs="unknown:002997_0126_0FEFAC9C426D5298"/>
 making too often a Repetition of unnecessary of affected Words; endeavouring in the most seemly manner to suit what we write, (as I before have hinted) to the Capacity, Quality, Sex and Age of the Person to whom it is intended. Nor must Brevity and Pla<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>ness be rejected, no, not <gap reason="illegible" resp="#AELD" extent="4 letters">
@@ -11713,7 +11713,7 @@ making too often a Repetition of unnecessary of affected Words; endeavouring in 
                </div>
             </div>
             <div n="4" type="part">
-               <pb n="118" facs="tcp:002997_0127_0FEFACEF11FFC9C0"/>
+               <pb n="118" facs="unknown:002997_0127_0FEFACEF11FFC9C0"/>
                <head>Part IV.</head>
                <head>Containing useful Instructions for making all such legal Writings as are generally used.</head>
                <p>HAving thus given Directions and Instructions in Read<g ref="char:EOLhyphen"/>ing and Writing true <hi>English,</hi> in Arithmetick, and in writing and Inditing Letters, I shall now in thi<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -11831,7 +11831,7 @@ making too often a Repetition of unnecessary of affected Words; endeavouring in 
                      </table>
                   </p>
                   <lg>
-                     <pb n="119" facs="tcp:002997_0128_0FEFACF29B4EEFB0"/>
+                     <pb n="119" facs="unknown:002997_0128_0FEFACF29B4EEFB0"/>
                      <l>
                         <hi>The Merchant when be doth the Money take.</hi>
                      </l>
@@ -11983,7 +11983,7 @@ making too often a Repetition of unnecessary of affected Words; endeavouring in 
                      </p>
                   </div>
                   <div type="bill">
-                     <pb n="120" facs="tcp:002997_0129_0FEFACF5A711B968"/>
+                     <pb n="120" facs="unknown:002997_0129_0FEFACF5A711B968"/>
                      <head>A Brick-layers Bill.</head>
                      <p>
                         <hi>Mr.</hi> Thomas Househave <hi>of </hi> New-York, <hi>Dr. for Work and Materials.</hi>
@@ -12142,7 +12142,7 @@ making too often a Repetition of unnecessary of affected Words; endeavouring in 
                      </lg>
                      <div type="receipt">
                         <p>
-                           <pb n="121" facs="tcp:002997_0130_0FEFACF737688E18"/>
+                           <pb n="121" facs="unknown:002997_0130_0FEFACF737688E18"/>
 REceived <gap reason="illegible" resp="#AELD" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> 
@@ -12311,7 +12311,7 @@ REceived <gap reason="illegible" resp="#AELD" extent="1 word">
                   </closer>
                </div>
                <div type="receipt">
-                  <pb n="122" facs="tcp:002997_0131_0FEFACFA1C4A1C78"/>
+                  <pb n="122" facs="unknown:002997_0131_0FEFACFA1C4A1C78"/>
                   <head>A Servants Receipt for Rent.</head>
                   <p>REceived this 3d day of <hi>April,</hi> 1727<g ref="char:punc">▪</g> of Mr. <hi>
                         <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -12437,7 +12437,7 @@ REceived <gap reason="illegible" resp="#AELD" extent="1 word">
                         </gap> a full Discharge, we do,</l>
                      <l>Advise, a Seal may be our thereunto,</l>
                      <l>
-                        <pb n="123" facs="tcp:002997_0132_0FEFACFC9CA85978"/>
+                        <pb n="123" facs="unknown:002997_0132_0FEFACFC9CA85978"/>
 And if a Witness may be gain'd, 'twould be,</l>
                      <l>Much more Authentick to Posterity.</l>
                   </lg>
@@ -12563,7 +12563,7 @@ And if a Witness may be gain'd, 'twould be,</l>
                   </p>
                   <lg>
                      <l>
-                        <pb n="124" facs="tcp:002997_0133_0FEFAD0072614EF0"/>
+                        <pb n="124" facs="unknown:002997_0133_0FEFAD0072614EF0"/>
 The Bill that's last, is good, and will avail,</l>
                      <l>When unto it there is both<g ref="char:punc">▪</g> Hand and Seal,</l>
                      <l>And 'tis much better, if to what is done,</l>
@@ -12608,7 +12608,7 @@ The Bill that's last, is good, and will avail,</l>
                   </closer>
                </div>
                <div type="poem">
-                  <pb n="125" facs="tcp:002997_0134_0FEFAD024CB3CCF0"/>
+                  <pb n="125" facs="unknown:002997_0134_0FEFAD024CB3CCF0"/>
                   <lg>
                      <l>Now you have seen a form of Bond and Bill<g ref="char:punc">▪</g>
                      </l>
@@ -12689,7 +12689,7 @@ The Bill that's last, is good, and will avail,</l>
                </div>
                <div type="conditions_of_obligation">
                   <div type="condition_of_obligation">
-                     <pb n="126" facs="tcp:002997_0135_0FEFAD058B4F33E0"/>
+                     <pb n="126" facs="unknown:002997_0135_0FEFAD058B4F33E0"/>
                      <head>The Condition of an Obligation from Two to One.</head>
                      <p>THe Condition of this Obli<gap reason="illegible" resp="#AELD" extent="3 letters">
                            <desc>•••</desc>
@@ -12728,7 +12728,7 @@ The Bill that's last, is good, and will avail,</l>
                         </gap> you may make the Condition of Obligations no<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> only from Three to Three, but from Ten to Ten, if Occasion require it, only observing to insert in the Obligation the Persons Names, the Town &amp; County where
-<pb n="127" facs="tcp:002997_0136_0FEFAD07102A59F8"/>
+<pb n="127" facs="unknown:002997_0136_0FEFAD07102A59F8"/>
 They live, and the Trades or Imployments that they follow, But various Business requiring various Forms, I shall pro<g ref="char:EOLhyphen"/>ceed to set down <gap reason="illegible" resp="#AELD" extent="2 words">
                            <desc>〈◊◊〉</desc>
                         </gap> as I apprehend any ways useful.</p>
@@ -12778,7 +12778,7 @@ They live, and the Trades or Imployments that they follow, But various Business 
                      <p>Every Submission is either General or Special; <hi>General,</hi> as of all Qua<gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>els, Actions, Executions, Demands, &amp;c. <hi>Special,</hi> as when 'tis only of certain Matters of Facts, and
-<pb n="128" facs="tcp:002997_0137_0FEFAD09D1D36A60"/>
+<pb n="128" facs="unknown:002997_0137_0FEFAD09D1D36A60"/>
 Things, as of Trespass, or all Actions of Trespass, of Debt or Detinue, &amp;c.</p>
                      <p>Submissions to Arbitration are two ways, either by Wri<g ref="char:EOLhyphen"/>ting or by Word.</p>
                      <p>Submission by <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -12838,7 +12838,7 @@ Things, as of Trespass, or all Actions of Trespass, of Debt or Detinue, &amp;c.<
                      </gap>, observ<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>,
-<pb n="129" facs="tcp:002997_0138_0FEFAD0E555CDB58"/>
+<pb n="129" facs="unknown:002997_0138_0FEFAD0E555CDB58"/>
 and in and by all things well and truly perform the Award, Arbitrament, Determination, final End and Judgment of <hi>Charles Peace maker</hi> of <hi>Strifes Town,</hi> Gent, and <hi>John D<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>
@@ -12873,7 +12873,7 @@ and in and by all things well and truly perform the Award, Arbitrament, Determin
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>. H.</hi> of <hi>E.</hi> aforesaid, <hi>Gent.
-<pb n="130" facs="tcp:002997_0139_0FEFAD0FE6DF89C0"/>
+<pb n="130" facs="unknown:002997_0139_0FEFAD0FE6DF89C0"/>
 [according to the Names and Plac<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>s the Arbitrators are of</hi>] Arbitratrators indifferently chosen, elected and named, as well on the Part and Behalf of the above bounden <hi>A. <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -12915,7 +12915,7 @@ and in and by all things well and truly perform the Award, Arbitrament, Determin
                      </gap> to stand and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="131" facs="tcp:002997_0140_0FEFAD13EE3E0EF8"/>
+                     <pb n="131" facs="unknown:002997_0140_0FEFAD13EE3E0EF8"/>
 in full Force and Vertue. See pa<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>. 134. <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13030,7 +13030,7 @@ in full Force and Vertue. See pa<gap reason="illegible" resp="#AELD" extent="1 l
                   <p>TO all People to whom this present Writing as Award <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="132" facs="tcp:002997_0141_0FEFAD179B9687D0"/>
+                     <pb n="132" facs="unknown:002997_0141_0FEFAD179B9687D0"/>
 award, order, judge and determine, of, for, upon and concerning all and all manner of Action and Actions<g ref="char:punc">▪</g> Cause and Causes of Actions, Suits, Bills, Bonds, Spe<g ref="char:EOLhyphen"/>cialties, Judgments, Executions, Extents, Quarrels, Con<g ref="char:EOLhyphen"/>troversies, Trespasses, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> and Demands whatsoever, at any Time before our said Election, had, made, moved, commenced, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13115,7 +13115,7 @@ award, order, judge and determine, of, for, upon and concerning all and all mann
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>roversies
-<pb n="133" facs="tcp:002997_0142_0FEFAD1AECBC06C0"/>
+<pb n="133" facs="unknown:002997_0142_0FEFAD1AECBC06C0"/>
 and Demands whatsoever, which either of them may, might, or in any wise ought to have of and against the other of them by Reason aforesaid, or means of any Matters, or Cause or Thing whatsoever, from the Begin<g ref="char:EOLhyphen"/>ning of the World until the 24th Day of <hi>August</hi> now last past. In Witness whereof I have hereunto set my Hand and Seal the first Day of <hi>October,</hi> in the thirteenth Year of the Reign of our Sovereign Lord, <hi>George,</hi> of <hi>Great Brit<gap reason="illegible" resp="#AELD" extent="3 letters">
                            <desc>•••</desc>
                         </gap>, France</hi> and <hi>Ireland,</hi> King, Defender<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -13172,7 +13172,7 @@ and Demands whatsoever, which either of them may, might, or in any wise ought to
                      </gap> each party Submitting to the Award <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap> by
-<pb n="134" facs="tcp:002997_0143_0FEFAD1C90276FE0"/>
+<pb n="134" facs="unknown:002997_0143_0FEFAD1C90276FE0"/>
 the Award to Compel the other Party either by Law or Equity to perform the Award, the Award is good, altho' the Party be thereby put to his Action. <hi>Mich.</hi> 24. <hi>Car. B. R. Pract. Reg.</hi> 28.</p>
                   <p>Every Arbitrament ought to be expounded and intended according to the Intent of the Arbitrators, and not litterally, 10. <hi>Co. <gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
@@ -13236,7 +13236,7 @@ the Award to Compel the other Party either by Law or Equity to perform the Award
                      </abbr>
                   </p>
                   <p>
-                     <pb n="135" facs="tcp:002997_0144_0FEFAD1FA3CBC1E0"/>
+                     <pb n="135" facs="unknown:002997_0144_0FEFAD1FA3CBC1E0"/>
 And the above bound <hi>A. B.</hi> doth agree and desire, that this his Submission to the Award above-mentioned, be made a Rule of her Majesty's Court of Queen's Bel<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ch, pursuant to the late Act of Parliament for this purpose provided.</p>
@@ -13289,7 +13289,7 @@ And the above bound <hi>A. B.</hi> doth agree and desire, that this his Submissi
                         <desc>•</desc>
                      </gap> 
                      <hi>Thomas Gowin,</hi> of <hi>New-York,</hi> Merchant, in and by one Obligation bearing date exactly with these Presents, in the Penal Sum of one hundred Pounds current Money of <hi>New-York,</hi> Conditioned for the true and just Payment of Fifty Pounds of like lawful Money
-<pb n="136" facs="tcp:002997_0145_0FEFACA692F4A170"/>
+<pb n="136" facs="unknown:002997_0145_0FEFACA692F4A170"/>
 unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on the 12th Day of <hi>August,</hi> next ensuing the date of the recited Obligation, as by the said Obligation and the Condition thereof, relation being thereunto had, doth and may more at large appear. If therefore the said <hi>Richard Woodby,</hi> his Heirs, Executors or Administrators, or any of them, shall and do well and truly pay, or cause to be paid unto the said <hi>Thomas Gowin,</hi> his Executors or Ad<g ref="char:EOLhyphen"/>ministrators, or <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Sum of Fifty Pounds current lawful Money of <hi>New-York,</hi> the said 12 Day of <hi>August,</hi> next ensuring the Date of the said Obligation before mention<g ref="char:EOLhyphen"/>ed, in discharge of the said Obligation<g ref="char:punc">▪</g> then this present Obligation to be void and of none effect, or else to stand good, <gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -13330,7 +13330,7 @@ unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on
                   </closer>
                </div>
                <div type="condition_of_obligation">
-                  <pb n="137" facs="tcp:002997_0146_0FEFAD220AF688A8"/>
+                  <pb n="137" facs="unknown:002997_0146_0FEFAD220AF688A8"/>
                   <head>A Counter Condition to save Bail Harmeless.</head>
                   <p>
                      <hi>THe Condition of this Obligation is such, That whereas the ab<gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -13424,7 +13424,7 @@ unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on
                   </p>
                </div>
                <div type="condition_of_obligation">
-                  <pb n="138" facs="tcp:002997_0147_0FEFAD24744EB770"/>
+                  <pb n="138" facs="unknown:002997_0147_0FEFAD24744EB770"/>
                   <head>A Condition to pay back part of a Legacy, if any D<gap reason="illegible" resp="#AELD" extent="3 letters">
                         <desc>•••</desc>
                      </gap> of the Testator shall after appear to be <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13513,7 +13513,7 @@ unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on
                         </gap> of lawful Money of</hi> England <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="139" facs="tcp:002997_0148_0FEFAD2601BB86F8"/>
+                     <pb n="139" facs="unknown:002997_0148_0FEFAD2601BB86F8"/>
                      <hi>before such notice given o<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> left in writing as aforesaid; then if the <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13586,7 +13586,7 @@ unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on
                         </gap> Witness,</hi> &amp;c.</p>
                </div>
                <div type="assignment_of_bond">
-                  <pb n="140" facs="tcp:002997_0149_0FEFAD2972575828"/>
+                  <pb n="140" facs="unknown:002997_0149_0FEFAD2972575828"/>
                   <head>An Assignment of Bond.</head>
                   <p>WHereas A. B. of M, in and by one Bond or Obli<g ref="char:EOLhyphen"/>gation, <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -13616,7 +13616,7 @@ unto the said <hi>Thomas Gowin,</hi> his Executors, Administrators or Assigns on
                      </gap> receive the said Monies due on the said Bond, o<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> any
-<pb n="141" facs="tcp:002997_0150_0FEFAC947A3FA2E8"/>
+<pb n="141" facs="unknown:002997_0150_0FEFAC947A3FA2E8"/>
 part thereof; neither hath, shall or will Release or Dis<g ref="char:EOLhyphen"/>charge the same, or any part thereof, but will own and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> all Lawful Proceedings for Recovery thereof, he the said E. F. saving the said C. D. harmless from all Costs and Charges that may happen thereby. In Witness, &amp;c.</p>
@@ -13671,7 +13671,7 @@ part thereof; neither hath, shall or will Release or Dis<g ref="char:EOLhyphen"/
                      </gap> Sealed and Deliver'd, it i<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> good But if the Words at and end of the Condition, <hi>That then this Obligation to be void</hi>
-                     <pb n="142" facs="tcp:002997_0151_0FEFAD7E64945D58"/>
+                     <pb n="142" facs="unknown:002997_0151_0FEFAD7E64945D58"/>
 be omitted, the Condition will be void, but not the Obliga<g ref="char:EOLhyphen"/>tion, which in this case remains single.</p>
                   <p>The Condition of a Bond must be to do a Thing Lawful and Possible, or else it is void.</p>
                   <p>If no Place is mentioned for performing a Condition, the Obligor must find out the Person of the Obligee, and tender the Money, or else the Obligation will be forfeited; there<g ref="char:EOLhyphen"/>fore its necessary to mention the Place where the Money is to be paid, as well as the Time. If no Time be mentioned, the Mony is due <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13692,7 +13692,7 @@ be omitted, the Condition will be void, but not the Obliga<g ref="char:EOLhyphen
                         <desc>〈◊〉</desc>
                      </gap>
                      <hi>James Morewit,</hi> his Executors Ad<g ref="char:EOLhyphen"/>ministrators
-<pb n="143" facs="tcp:002997_0152_0FEFAD2CC8926D70"/>
+<pb n="143" facs="unknown:002997_0152_0FEFAD2CC8926D70"/>
 and Assigns against est and all manner of Persons shall and will warrant; and for ever defend by these Presents. <hi>In</hi> Witness whereof, together with the delivery of the Bar<g ref="char:EOLhyphen"/>gein'd Premises, I have hereunto set my Hand and Seal the Tenth Day of <hi>May,</hi> in the——Year of the Reign of our Sovereign Lord <hi>George,</hi> King of <hi>Great Britain, &amp;c</hi> and of our Lord God, 1727.</p>
                </div>
                <div type="bill_of_sale">
@@ -13702,15 +13702,15 @@ and Assigns against est and all manner of Persons shall and will warrant; and fo
                <div type="release">
                   <head>The Release.</head>
                   <p>THis Indenture made, &amp;c between <hi>A. B.</hi> and <hi>E.</hi> his Wife of the one part, and <hi>C. D.</hi> of the other part,
-<pb n="144" facs="tcp:002997_0153_0FEFAD2E584DF068"/>
+<pb n="144" facs="unknown:002997_0153_0FEFAD2E584DF068"/>
                      <hi>Witnesseth,</hi> That the said A. B. and E. his Wife, for and in Consideration of the Sum of—current Money of Y. to the said A. B. in hand paid by the said C. D. at or before the ensealing and delivery of these Presents, the Receipt whereof he the said A. B. doth hereby acknowledge, and thereof, and every Part and Parcel thereof Doth clearly acquit and discharge the said C. D, his Executors and Ad<g ref="char:EOLhyphen"/>ministrators, and every of them, by these Presents, <hi>Have</hi> Given, Granted, Alienated, Released and Confirmed, and by these Presents do Give, Grant, Alien, Release and Con<g ref="char:EOLhyphen"/>firm unto the said C. D. and to his Heirs and Assigns, all that (<hi>Describe the Premisses</hi>) together with all and singular the Houses, Edifices, Buildings, Orchards, Gardens, Pastures, Commons, Woods, Woodlands, Water, Water-Courses, Mines, Minerals, Profits, Commodities, Hereditaments and Appurtenances whatsoever, to the said—belonging or in any wise appertaining, or therewithal used, occupied, or enjoyed, or accepted, reputed, taken and known as Part, Parcel and Member thereof; (All which said Premisses are now in the actual Possession of him the said C. D. by virtue of one Indenture of Bargain and Sale to him thereof made, for the Term of One Year, bearing Date the Day before the Date of these Presents, and made between the said A. B. and E. his Wife, on the one part, and the said C. D. of the other part, and by virtue of the Statute for Transferring of Use into Possession) And all the Estate, Right, Title, In<g ref="char:EOLhyphen"/>terest, Use, Trust, Property, Reversion, Claim and De<g ref="char:EOLhyphen"/>mand whatsoever, of them the said A. B. And E. his Wife, of, in and to the Premisses, and every or any part or parcel thereof, and the Reversion and Reversions, Remainder and Remainders yearly, and other Rents and Profits of the Pre<g ref="char:EOLhyphen"/>misses, and of every Part and Parcel thereof, Together with all and singular Deeds, Evidences, Writings, Records, Ex<g ref="char:EOLhyphen"/>emplification of Records, Escripts and Minuments' whatso<g ref="char:EOLhyphen"/>ever, touching and concerning the said Premisses only, or only any Part or Parcel thereof. <hi>To Have and to Hold</hi> the said—and all and singular other the Premisses herein before mentioned, meant or intended to be hereby granted, alienated, released or confirmed, and every Part and Parcel
-<pb n="145" facs="tcp:002997_0154_0FEFACA1AD407900"/>
+<pb n="145" facs="unknown:002997_0154_0FEFACA1AD407900"/>
 thereof, with their and every of their Appurtenances, unto the said C. D. his Heirs and Assigns, to the only proper Use and Behoof of him the said C. D. and his Heirs and Assigns forever. And the said A. B. for himself; his Heirs, Ex<g ref="char:EOLhyphen"/>ecutors and Administrators, doth Covenant, Promise, Grant and Agree to and with the said C. D<g ref="char:punc">▪</g> his Heirs and Assigns, and every of them by these Presents, in manner and form following (<hi>That is to say</hi>) That he said A, B, at the Time of the Ensealing and Delivery of these Presents, is seized of and in the said Messuage, &amp;c. <gap reason="illegible" resp="#AELD" extent="2 words">
                         <desc>〈◊◊〉</desc>
                      </gap> singular other the Premisses, in and by these Presents <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Bargained and sold, with all and every their Rights, Members and Appurten<g ref="char:EOLhyphen"/>ances, of good, pure, perfect and absolute Estate of In<g ref="char:EOLhyphen"/>heritance in Fee simple, without any Condition, Reversion, Remainder or Limitation of any Use of Uses, Estate or Estates, in or to any Person or Persons whatsoever, to Alter, Change, Defeat, Determine or make Void the same. And that the said <hi>A. B,</hi> at the Time of ensealing and Delivery of these Presents, hath full Power, good right and lawful Au<g ref="char:EOLhyphen"/>thority to grant<g ref="char:punc">▪</g> bargain, sell and convey all and singular the before hereby granted or mentioned to be granted Pre<g ref="char:EOLhyphen"/>misses, with their and every of their Appurtenances unto the said, <hi>C. D.</hi> his Heirs and Assigns in manner and form aforesaid. And that he the said <hi>C. D.</hi> his Heirs and Assigns and every of them shall and may by force and virtue of these Presents at all Times hereafter lawfully, peaceably and quietly have, hold, use, occupy and possess the said, &amp;c. and all and singular the before granted Premisses, with their and every of their Rights Members and Appurtenances, and have, receive and take the Rents, Issues and Profits thereof to his and their own proper use and behoof for ever, without any lawful Lett, Suit, Trouble, Denial, Interruption, Eviction or Disturbance of the said <hi>A. B.</hi> his Heirs or Assigns, or from any other Person or Persons whatsoever lawfully claiming by, from or under him, them or any of them, or by his or their means, act or consent, Title; in<g ref="char:EOLhyphen"/>terest, privity or procurement: And that free and clear, and freely and clearly exonerated and discharged, or other<g ref="char:EOLhyphen"/>wise from Time to Time well and sufficiently saved and kept
-<pb n="146" facs="tcp:002997_0155_0FEFAC8C1D049E90"/>
+<pb n="146" facs="unknown:002997_0155_0FEFAC8C1D049E90"/>
 harmless by the said <hi>A. B.</hi> his Heirs and Assigns of and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> all and all manner of <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13730,7 +13730,7 @@ harmless by the said <hi>A. B.</hi> his Heirs and Assigns of and <gap reason="il
                <div type="lease">
                   <head>A Lease of a House.</head>
                   <p>T <hi>His Indenture</hi> made the 4th Day, &amp;c. by and between A. B. of M. on the one part, and C. D. of N. on he other part, <hi>Witnesseth,</hi> That the said A. B. for and in consideration of the yearly Rent, Covenants, Conditions
-<pb n="147" facs="tcp:002997_0156_0FEFACACDD3E63A0"/>
+<pb n="147" facs="unknown:002997_0156_0FEFACACDD3E63A0"/>
 and Agreements herein after contained, on the part and be<g ref="char:EOLhyphen"/>half of the said C. D. his Executors, Administrators and Assigns, <hi>Hath</hi> demised, granted, and to Farm-Let, and by these Presents doth demise, grant and to Farm-Let unto the said C. D. his Executors, Administrators and Assigns all that Farm or Plantation, with the Houses, ou<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>-Houses, Barns, Stables, Orchards, Gardens, Meadows, Pasture Ground, Advantages, Ways, Easements, Emoluments or Profits arising, belonging or appertaining to the hereby dimised Premises, or any part thereof <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13748,10 +13748,10 @@ and Agreements herein after contained, on the part and be<g ref="char:EOLhyphen"
                   </p>
                </div>
                <div type="lease">
-                  <pb n="142" facs="tcp:002997_0157_0FEFACAA82C175A8"/>
+                  <pb n="142" facs="unknown:002997_0157_0FEFACAA82C175A8"/>
                   <head>An Assignment of a Lease.</head>
                   <p>T <hi>His Indenture</hi> made, &amp;c. Between I. F. of, &amp;c. of the one part, and R. C, of the other part, <hi>Witnesseth,</hi> That G. P. of—in and by one Indenture of Lease, bear<g ref="char:EOLhyphen"/>ing Date—for the Consideration therein mentioned, did Demise, Grant and to Farm. Let unto the said I. F. All that (<hi>Recite the Premisses</hi>) as in and by the said recited In<g ref="char:EOLhyphen"/>denture of Lease (Reference being thereunto had) doth more fully and at large appear. <hi>And this Indenture farther Witnesseth,</hi> That the said I, F, for and in Consideration of the Sum of—to him in hand prid before the Ensealing and Delivery of these Presents, by the said R, C, the Re<g ref="char:EOLhyphen"/>ceipt whereof he the said I. F, doth hereby acknowledge, and thereof, and every part thereof doth hereby fully acquit, exonerate and discharge the said R, C, his Executors, Ad<g ref="char:EOLhyphen"/>ministrators and Assigns, Hath granted, bargained, sold, assigned and set over, And by these Presents doth grant, bar<g ref="char:EOLhyphen"/>gain, sell, assign and set over unto the said R, C, his Execu<g ref="char:EOLhyphen"/>tors, Administrators and Assigns, All that &amp;c. and all the Estate, Right, Title, Interest, Possession, Term of years to come, claim and demand whatsoever, which he the said J, F, now hath or may, ought or should have or claim in or to the Messuage and Premises with the Appurtenances afore<g ref="char:EOLhyphen"/>said, by force and virtue of the said recited Indenture of Lease, <hi>To have and to bold the said,</hi> &amp;c. And also the said recited In<g ref="char:EOLhyphen"/>denture of Lease, and all the Estate, Right, Title, Interest and Term of years, before in and by these presents, bar<g ref="char:EOLhyphen"/>gained, sold, assigned and set over unto the said R, C, his Executors, Administrators and Assigns, to his and their pro<g ref="char:EOLhyphen"/>per use and behoof, during the residue of the said Term, by the Indenture of Lease granted and yet to come, and unexp<g ref="char:EOLhyphen"/>red, in as large, ample and beneficial manner to all intents and purposes, as he the said A. B. now hath or might, should or ought to have, and enjoy the same by force and virtue of the said recited Indenture of Lease or otherwise however; And the said A. B. for himself, his, &amp;c. doth covenant
-<pb n="149" facs="tcp:002997_0158_0FEF96EDAF067F78"/>
+<pb n="149" facs="unknown:002997_0158_0FEF96EDAF067F78"/>
 and agree to and with the said C. D. his, &amp;c. that not<g ref="char:EOLhyphen"/>withstanding any act or thing by the said A. B. done to the contrary, the said recited Indenture of Lease is a good, sure, perfect and indefeazable Lease in the Law, at the time of the ensealing and delivery of these presents, and so shall stand, remain, continue and be unto the said C. D. his Ex<g ref="char:EOLhyphen"/>ecutors, Administrators and Assigns, for and during the remainder of the Term of years thereby granted, under the Rents and Covenants therein mentioned and contained; And also that the said E. D. his Executor, &amp;c paying the Rent reserved, and performing the Covenants, Conditions and Agreements in the above <gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap>cited Lease contained, shall and may peaceebly and quietly have, hold, occupy, possess and enjoy the said, &amp;c. for and during the residue of the Term aforesaid, without the lett, suit, trouble or inter<g ref="char:EOLhyphen"/>ruption of him the said A. B. his, &amp;c. or of any other Per<g ref="char:EOLhyphen"/>son or Persons, lawfully, claiming or to claim any right or interest in the Premisses, by, from or under him, them of any of them <hi>In Witness, &amp;c.</hi>
@@ -13761,7 +13761,7 @@ and agree to and with the said C. D. his, &amp;c. that not<g ref="char:EOLhyphen
                   <head>An Assignment of Rent, reserved upon a Lease,</head>
                   <p>
                      <hi>THIS Indenture</hi> made, &amp;c. between <hi>A. B.</hi> on the one part, and <hi>C. D.</hi> of—on the other part, <hi>Witnesseth,</hi> That whereas the said <hi>A. B.</hi> by his Indenture of Lease, bearing date——did demise and to farm Let all that——for the yearly Rent of 20l. <hi>per annum,</hi> payable as by the same In<g ref="char:EOLhyphen"/>denture of Lease (Reference being thereunto had) may at large appear. Now the said <hi>A. B.</hi> for and in Consideration of the Sum of——to him in hand paid by the said said <hi>C. D.</hi> the Receipt thereof he doth hereby acknowledge, hath given, granted, assigned, and set over, and by these Presents doth fully, clearly and absolutely give, grant, transport, assign &amp; set over unto the said <hi>C. D.</hi> the said yearly Rent of 20l. <hi>per annum,</hi> reserved to him the said <hi>C. D.</hi> his Executors &amp; Assigns, upon and by the said Lease, together with the Reversion of all and singular and Premisses, by the said Indentures of Lease demised, and also all his Right, Title, Interest, Property,
-<pb n="150" facs="tcp:002997_0159_0FEFAC905F4C63E0"/>
+<pb n="150" facs="unknown:002997_0159_0FEFAC905F4C63E0"/>
 Claim and Demand, of in and to all singular the Premisses, together with the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> part of the said recited Indentures of Lease, <hi>To Have and to Hold,</hi> Receive and Enjoy the a<g ref="char:EOLhyphen"/>foresaid yearly Rent of <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13790,7 +13790,7 @@ Claim and Demand, of in and to all singular the Premisses, together with the <ga
                      </gap> before the Corn was ripe.</p>
                </div>
                <div type="exchange_of_lands">
-                  <pb n="151" facs="tcp:002997_0160_0FEFAD31200EF090"/>
+                  <pb n="151" facs="unknown:002997_0160_0FEFAD31200EF090"/>
                   <head>An Exchange of Lands.</head>
                   <p>THis indenture made &amp;c. between A. B. of, &amp;c. of the one Part, and C. D. of &amp;c. of the other Part, <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13825,7 +13825,7 @@ Claim and Demand, of in and to all singular the Premisses, together with the <ga
                      </gap> Executors, Administrators and Assign, shall and may from Time to Time, and at all Times, during the said Term hereby Granted, peaceably and quietly have, hold, occupy, possess and enjoy the said Messuage or Tenement and Premisses first above mentioned, without the Let, Trouble, Hindrance<g ref="char:punc">▪</g> Molestation, Interruption or Denial of him the sa<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>d A. B. his Executors and Assigns, and every of them, and of all and
-<pb n="152" facs="tcp:002997_0161_0FEFAD32B3506DC8"/>
+<pb n="152" facs="unknown:002997_0161_0FEFAD32B3506DC8"/>
 every other Person and Persons whatsoever, claiming in, by, from or under him, them or any of them. And the sa<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>d C. D. for himself, his Executors and Administrators, doth Coven<g ref="char:EOLhyphen"/>ant and Grant to and with the said A. B. his Executors and Administrators, That he the said A. B. his Executors, Ad<g ref="char:EOLhyphen"/>ministrators and Assigns, shall and may, from Time to Time, and at all Times, during the said Term hereby Granted, peaceably and quietly have, hold, occupy, possess and enjoy the said Messuage or Tenement and Premisses last above mentioned, without the Let, Trouble, Hinderance, Molesta<g ref="char:EOLhyphen"/>tion, Interruptions or Denial of him the said C. D. his Exe<g ref="char:EOLhyphen"/>cutors, Administrators and Assigns, and every of them, and of all and every other Person and Persons whatsoever <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13842,7 +13842,7 @@ every other Person and Persons whatsoever, claiming in, by, from or under him, t
                      </gap> King of <hi>Great Britain, &amp;c.</hi> by and between <hi>A. B.</hi> of &amp;c. on the one part, <hi>And C. D.</hi> of &amp;c. on the other part, <hi>Witnesseth,</hi> That the said <hi>A. B.</hi> for and in consideration of the yearly <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, Covenants, Conditions and Agreements herein after contained, on the part and behalf of the said <hi>C. D.</hi> his Executors. Administrators and Assigns; <hi>Hath</hi> demised, granted, and to Farm letten, and by these Presents doth demise, grant and to farm let unto the said <hi>C.D.</hi> his Executors Administrators and Assigns all that Farm or Plantation, with the Houses, out-Houses, Barns, Stables, Orchards, Gardens, Meadow, Pastures, Ground, Ad<g ref="char:EOLhyphen"/>vantages, Ways, Easements, Emoluments, or Profits aris<g ref="char:EOLhyphen"/>ing, belonging or appertaining to the hereby demised Premisses, or any part thereof scituate standing and being in—<hi>To have and to hold</hi> all and singular the hereby demised Premisses unto the said <hi>C. D.</hi> his Executors, Administrators and Assigns from the—Day of—for the during the Term of—years to be fully compleat and ended. <hi>Yielding and Paying</hi> therefore yearly and every year the yearly
-<pb n="153" facs="tcp:002997_0162_0FEFAD369BAE3A38"/>
+<pb n="153" facs="unknown:002997_0162_0FEFAD369BAE3A38"/>
 Rent or Sum of—current Money of—to be paid Quarterly in four equal payments. And it is further Covenanted by and between the said Parties, That, <hi>&amp;c. And</hi> the said <hi>A. B.</hi> for himself, his Heirs, Executors, Admini<g ref="char:EOLhyphen"/>strators and Assigns, and for every of them, doth Covenant, Promise, grant and agree to and with the said <hi>C. D.</hi> his Executors, Administrators and Assigns, and to and with every of them by these Presents, That he the said <hi>C. D.</hi> his Exe<g ref="char:EOLhyphen"/>cutors, Administrators and Assigns and every of them, for and under the yearly Rent, Covenants, Clauses and Condi<g ref="char:EOLhyphen"/>tions herein before expressed, on the part and behalf of the said <hi>C. D.</hi> his Executors and Assigns to be paid and perform<g ref="char:EOLhyphen"/>ed, as aforesaid, shall and may peaceably have, hold, use occupy and enjoy all and singular the hereby demised Premisses and every part thereof, without any Let, Trouble, Molesta<g ref="char:EOLhyphen"/>tion, eviction, ejection, interruption or denyal of the said A. B. his Executors, Administrators or Assigns, or of any other Person or Persons whatsoever, claiming, or that shall or may claim by, from or under him, them, or any of them <hi>In Witneses</hi> whereof the said parties to these Presents inter<g ref="char:EOLhyphen"/>changeably have put their Hands and Seals the Day and Year first above written.</p>
                   <p>
                      <hi>Sealed and Delivered, &amp;c.</hi>
@@ -13851,7 +13851,7 @@ Rent or Sum of—current Money of—to be paid Quarterly in four equal payments.
                <div type="letter">
                   <head>A Letter of Attorney.</head>
                   <p>KNOW all Men by these Presents, That I <hi>John Vexall</hi> of the City of <hi>Trubill</hi> in the Province of—Merchant, have made, Ordained, Constituted, and by these Presents do Make, Ordain and Constitute, and in my place and stead put and depute my trusty and loving Friend <hi>William Trueman</hi> of <hi>Bridge Town</hi> in the Island of <hi>Barbadoes,</hi> Merchant, my true and lawful, Attorney, for me, and in my Name and for my use to ask, demand, sue for, levy recover and receive, all such Sum and Sums of Money, Debts, Goods, Wares, Dues, Accompts, and other Demands whatsoever, which are or shall be due, owing, payable and belonging to me, or detain<g ref="char:EOLhyphen"/>ed from me any manner of ways or means whatsoever, by
-<pb n="154" facs="tcp:002997_0163_0FEFAD389EC76CD0"/>
+<pb n="154" facs="unknown:002997_0163_0FEFAD389EC76CD0"/>
 any <hi>Person or Persons whatsoever,</hi> in the said Island of <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -13873,7 +13873,7 @@ any <hi>Person or Persons whatsoever,</hi> in the said Island of <hi>
                <div type="letter">
                   <head>A Letter of Attorney to Receive Rents.</head>
                   <p>KNOW all Men, <hi>&amp;c,</hi> That I<hi>A. B.</hi> of, <hi>&amp;c.</hi> have Made Ordained, Constituted and Appointed; And by these Presents do make, ordain, constitute and appoint C. D. of—my True and Lawful Attorney, for me, and in my Name, and for my own proper Use and Benefit, to Ask, Demand and Receive of and from—all such Rents, and arrearages of Rents, which now art, or hereafter shall grow due from the said F. F. out of and from all that my Messuage or Tenement at G. And upon Receipt thereof to give Acquittances or other sufficient Discharges therefore. And in Default of Payment thereof, or any part thereof, to my said Attorney, I Do hereby Authorize and Impower him my said Attorney,
-<pb n="155" facs="tcp:002997_0164_0FEFAD3C75E86A40"/>
+<pb n="155" facs="unknown:002997_0164_0FEFAD3C75E86A40"/>
                      <hi>into and upon the Lands and Premisses, to Enter and Distrained and the Distress and Distresses there <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> and taken to Dispose of according to Law, for the speedy Recovering and Obtaining, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -13919,7 +13919,7 @@ any <hi>Person or Persons whatsoever,</hi> in the said Island of <hi>
                      </gap> keep, his <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="156" facs="tcp:002997_0165_0FEFACA8E8014988"/>
+                     <pb n="156" facs="unknown:002997_0165_0FEFACA8E8014988"/>
 Commands gladly every where obey, he shall do no damage to his said Master, nor see it to be done by others, without getting or giving notice thereof to his said Masters. He that not waste his said Masters Goods, not lend them unlawful to any. He shall not commit Fornication, nor contract Ma<g ref="char:EOLhyphen"/>trimony within the said Term. At Cards, Dice, or any other <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> lawful Game, he shall not play, whereby his said Master may have Damage. With his own <hi>Goods,</hi> not the <hi>Goods</hi> of others, without Lisence from his said Master, he shall nei<g ref="char:EOLhyphen"/>ther buy nor sell. He shall not absent himself Day not night from his Masters Service, without his Leave: Nor haunt Ale-houses, Taverens, or Play-houses; our in all things be<g ref="char:EOLhyphen"/>have himself as a faithful Apprentice ought to do, during the said Term. And the said Master shall are the utmost of his endeavour to Teach, or cause to be Taught or Instructed, the said Apprentice, in the Trade or Mystery he now followeth: and procure and provide for him sufficient Meat, Drink, Ap<g ref="char:EOLhyphen"/>parel, Lodging and Washing, sitting for an Apprentice, during the said Term. And for the true Performance of all and every the said Covenants and Agreements, either of the said Parties bind themselves unto the other by these Presents. <hi>In Witnesses</hi> whereof, they have interchangeably put their Hands and Seals this Twentieth Day of <hi>May.</hi>
@@ -13943,14 +13943,14 @@ Commands gladly every where obey, he shall do no damage to his said Master, nor 
                      </gap>, Credit<g ref="char:EOLhyphen"/>ors in divers Sums of Mercy which we are truly <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="157" facs="tcp:002997_0166_0FEFACAF98880F50"/>
+                     <pb n="157" facs="unknown:002997_0166_0FEFACAF98880F50"/>
 he is not at present able to pay: And we the said Creditors, and each of us respectively, being very well satisfied of the good intent and meaning of the said <hi>H. B.</hi> which he hath to pay us our said several Debts. <hi>Now know ye.</hi> that we the said Creditors and every one of us, for the Considerations afore<g ref="char:EOLhyphen"/>said, have given and granted, and by these Presents do give and grant unto the said <hi>H. B.</hi> our sure and free License, Liberty and Conduct as is in us, to go, come, pass and repass about his Business and Occasions, for and during the Term and Space of Two whole Years from the date hereof, with<g ref="char:EOLhyphen"/>out Let, Suit, Trouble or Molestation of us his said Creditors, or any of us, our, or any of our Heirs, Executors, Admini<g ref="char:EOLhyphen"/>strators or Assigns, or any of our Suit or Suits; and if it shall so happen that the said <hi>H. B.</hi> at any Time during the said Term of two full Years, to commence from the Date hereof, shall by us his said Creditors or any of us, our, or any of our Heirs, Executors, Administrators or Assigns, or by any Per<g ref="char:EOLhyphen"/>son or Persons, by, or through the Commandment, Will, Consent or Knowledge of us, or any of us or them, contrary to the tenor and true meaning of these Presents, be and ways Arrested, Sued or Molested in his Person or Goods, and be not thereof forth with discharged and defended, that then the said <hi>H. B.</hi> his Executors, Administrators or Assigns, shall, by virtue of these Presents, be forever clearly acquited and dis<g ref="char:EOLhyphen"/>charged against him or them, his or their Executors, or Admini<g ref="char:EOLhyphen"/>strators, by what means or consent the said <hi>H. B.</hi> shall, con<g ref="char:EOLhyphen"/>trary to the true intent and meaning of this our present Writing of safe Conduct, be vexed, sued, arrested, attached or hinder<g ref="char:EOLhyphen"/>ed as aforesaid, and thereof not forth with discharged and de<g ref="char:EOLhyphen"/>fended as aforesaid, and that it shall and may be Lawful for the said <hi>H. B.</hi> to Plead and give in Evidence this out present Writing of safe Conduct, as in full bar and discharge of the Debt and Debts of such Person or Persons by whom the said <hi>H. B.</hi> shall be so Arrested, Sued or Molested as aforesaid. <hi>In Witness</hi> whereof, we the said Creditors of the said <hi>H. B.</hi> have hereunto for our Hands and Seals the 28 Day of <hi>May.</hi> 1727.</p>
                   <p>
                      <hi>Sealed and Delivered. &amp;c.</hi>
                   </p>
                </div>
                <div type="condition">
-                  <pb n="158" facs="tcp:002997_0167_0FEFAD3E38C4F198"/>
+                  <pb n="158" facs="unknown:002997_0167_0FEFAD3E38C4F198"/>
                   <head>A Condition that the Heir shall make no Claim.</head>
                   <p>THe Condition, <hi>&amp;c.</hi> That whereas <hi>R. G.</hi> of, <hi>&amp;c.</hi> Father of the above bound <hi>R.</hi> is possest of one Messuage or Tenement, and certain Lands thereunto belonging, called or known by the name of &amp;c. now in the occupation of &amp;c. and whereas the said <hi>R.</hi> the Son, for and in consideration of a certain competent Sum of &amp;c. to him the said <hi>R.</hi> by the said <hi>J.</hi> well and truly contented and paid, whereof and wherewith the said <hi>R.</hi> acknowledgeth himself fully satisfied, hath granted and agreed that the said <hi>J.G.</hi> by and with the consent of the said <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -13969,7 +13969,7 @@ he is not at present able to pay: And we the said Creditors, and each of us resp
                      </gap>——<gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> county of——send
-<pb n="159" facs="tcp:002997_0168_0FEFAC97229E9450"/>
+<pb n="159" facs="unknown:002997_0168_0FEFAC97229E9450"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, Know ye, That I the said, <hi>T. M.</hi> for sundry good Causes and Considerations me thereunto moving, have Re<g ref="char:EOLhyphen"/>mised, Released, and for ever quit Claim unto <hi>G. L.</hi> of——Gent, his Heirs, Executors and Administrators, all and all manner of Action and Actions, Suits, Debts, Duties, Reckon<g ref="char:EOLhyphen"/>ings, Accompts and Demands whatsoever, which I the said <hi>T. M.</hi> had, have or at any time hereafter may or shall have against the said <hi>G. L.</hi> his Heirs, Executors or Administrators, for and in, touching and concerning any the Rents received, Profit or Profits of any of the Lands, Tenements, Heredita<g ref="char:EOLhyphen"/>ments, or any Thing or Things appertaining, or by right be<g ref="char:EOLhyphen"/>longing to me the said <hi>T. M.</hi> whether it be touching or con<g ref="char:EOLhyphen"/>cerning the Premisses, or any of them, or any other matter, Cause or thing, whatsoever, made, committed or done, or for any Receipts or Payments, of or touching the said Premises, Debt or Debts due to me by Bond, Bill, or otherwise, and for any thing or things whatsoever done or committed on my be<g ref="char:EOLhyphen"/>half, or tending to any matter or thing wherein I the said <hi>T. M.</hi> or at any time since untill the Day of the Date of these Presents. <hi>In Witness</hi> whereof, I have hereunto set my Hand and Seal, The 23 Day of <hi>May,</hi> &amp;c.</p>
@@ -13992,7 +13992,7 @@ he is not at present able to pay: And we the said Creditors, and each of us resp
                      </gap> howsoever, which against the said <hi>T. B.</hi> I ever had, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> have, or which I, my Heirs, Executors or Administra<g ref="char:EOLhyphen"/>tors
-<pb n="160" facs="tcp:002997_0169_0FEFAC99987FE578"/>
+<pb n="160" facs="unknown:002997_0169_0FEFAC99987FE578"/>
 shall or may have, claim, challange or demand, for <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> by reason of any matter, cause or thing from the beginning of the World unto the Day of the Date of these Present <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14028,7 +14028,7 @@ shall or may have, claim, challange or demand, for <gap reason="illegible" resp=
                      </gap> all and every other former Testaments, Will Legacy and Executors, by me in any ways before this <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="161" facs="tcp:002997_0170_0FEFAD4161AA1678"/>
+                     <pb n="161" facs="unknown:002997_0170_0FEFAD4161AA1678"/>
 Named, Willed and Bequeathed. Ratifying and Confirmi<g ref="char:EOLhyphen"/>ng this, and no other, to be my Last Will and Testament. <hi>In Witness</hi> whereof, I have hereunto for my Hand and Seal, the Day and Year above written.</p>
                   <p>Signed, Sealed, Published, Pronounced, and declared by the said——as his Last Will and Testament, in the Presence of us the Subscribers, <abbr>
                         <hi>viz.</hi>
@@ -14045,7 +14045,7 @@ Named, Willed and Bequeathed. Ratifying and Confirmi<g ref="char:EOLhyphen"/>ng 
                         <desc>〈◊〉</desc>
                      </gap> in the said Last Will he doth frustrate to former Will, because, say they, the Use is in him, in the remainder upon the Livery; and it is in his Power to sell or dispose of it. But it is otherwise if the uses were declared to be the right Heirs of the Body of the Feoffer; for if so, it may be in his Power to alter his Last Will and Testament.</p>
                   <p>If a Testament bear date a <hi>Paris</hi> in <hi>France,</hi> it may be pro<g ref="char:EOLhyphen"/>ved by the Executors in <hi>England,</hi> and it is a sufficient ground for the Executor to bring an Action for the Recovery of the Testator's Debts contracted in <hi>England.</hi> But on the contrary,
-<pb n="162" facs="tcp:002997_0171_0FEFAD42F18834D0"/>
+<pb n="162" facs="unknown:002997_0171_0FEFAD42F18834D0"/>
 if an Obligation hear <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> in Paris, then it is not sufficient <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14121,7 +14121,7 @@ if an Obligation hear <gap reason="illegible" resp="#AELD" extent="1 word">
                         </gap>,</hi> &amp;c. <hi>are given of above the <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> of 301. by word of Mouth, without Writing,</hi> (<hi>which the Law calls a</hi> Noncupative will) <hi>the same must be likewise done in the Pre<g ref="char:EOLhyphen"/>sence
-<pb n="163" facs="tcp:002997_0172_0FEFAD451224ED90"/>
+<pb n="163" facs="unknown:002997_0172_0FEFAD451224ED90"/>
 of</hi> Three Witnesses, <hi>bid to bear Witness by the Testator to his last Sickness,</hi> &amp;c. <hi>And it must be Proved within six Months.</hi>
                   </p>
                   <p>
@@ -14144,7 +14144,7 @@ of</hi> Three Witnesses, <hi>bid to bear Witness by the Testator to his last Sic
                      <hi>Signed, Sealed and Published by the said A. B. at a <hi>Codicil</hi> to be annexed to his Will, in the Presence of</hi> T. D. F. G. H. K.</p>
                </div>
                <div type="account">
-                  <pb n="164" facs="tcp:002997_0173_0FEFAD489A0ACF20"/>
+                  <pb n="164" facs="unknown:002997_0173_0FEFAD489A0ACF20"/>
                   <head>The form of an Administrators Accompt.</head>
                   <p>THe Accompt of <hi>L. R. &amp;c,</hi> Administrator of all and singular the Goods and Chattles of <hi>T. M.</hi> of <hi>C.</hi> 
                      <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14192,7 +14192,7 @@ of</hi> Three Witnesses, <hi>bid to bear Witness by the Testator to his last Sic
                   <head>A Covenant to pass Money lent upon Bottomrey</head>
                   <p>
                      <hi>To all People to whom this present Writing shall come, J. Reed,</hi> Marriner (under God) Commander of the good Sloop called the <hi>Fortune,</hi> of <hi>Philadelphie,</hi> now riding at an Anchor in the River of <hi>Delaware,</hi> sends Greeting: <hi>Whereas</hi> the said Sloop is now bound upon a Voyage unto the Island of <hi>Borbadoes</hi> and else where, and back again to the Port of <hi>Philadelphia,</hi> And <hi>Whereas, Edward Denbam</hi> of <hi>&amp;c.</hi> Merch<g ref="char:EOLhyphen"/>ant, at the request and desire of the said <hi>J. R.</hi> hath the Day of the Date hereof lent and paid unto him the said <hi>J.</hi> the Sum
-<pb n="165" facs="tcp:002997_0174_0FEFAD4A73776A40"/>
+<pb n="165" facs="unknown:002997_0174_0FEFAD4A73776A40"/>
 of, <hi>&amp;c.</hi> 
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -14201,7 +14201,7 @@ of, <hi>&amp;c.</hi>
                      </gap> the——safe arrival into the River <hi>D.</hi> within the Port of the City of <hi>Philadelphia,</hi> of the said Sloop front her aforesaid intended Voyage, or within the like time and space of 20 Days next after the safe arrival from the island of <hi>Barbadoes</hi> aforesaid into the River of <hi>D.</hi> into the Po<gap reason="illegible" resp="#AELD" extent="2 letters">
                         <desc>••</desc>
                      </gap> of <hi>Philadelphia,</hi> or any other Sloop and Vessel, wherein the Accompt and Return of the Proceeds of the sale of the said Sloop the <hi>Fortune</hi> in the Island of <hi>Barbadoes</hi> aforesaid, in case she shall be there sold, or wherein the Proceeds or Returns of the said Adventure of the said <hi>E. D.</hi> shall be returned and sent. And the said J.K. for him, his Heirs, Executors, Admini<g ref="char:EOLhyphen"/>strators and Assigns, doth further Covenant, Promise and Agree to and with the said E.D. his Executors, Administra<g ref="char:EOLhyphen"/>tors and Assigns, by these presents, That if the said Sloop F. shall be and remain on her said intended Voyage longer than—Months from the Day of the Date hereof to be reckon'd and accounted, Then he the said J. R. his Heirs, Executors and Administrators shall and will well and truly pay, or cause to be paid unto the said E. D. his Executors, Administrators or Assigns the Sum of—current Money of—per Month, for each and every several and respective Month that die said Sloop shall be and remain on the said Voyage longer
-<pb n="166" facs="tcp:002997_0175_0FEFAD4D87CDC1C8"/>
+<pb n="166" facs="unknown:002997_0175_0FEFAD4D87CDC1C8"/>
 than the said time and space of—(not exceeding in the said Voyage in the whole—) from the day of the Date <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> to be accomplished, together with the said Sum of—with<g ref="char:EOLhyphen"/>in the like time and space of 20 days next after the first Return and safe Arrival of the said Sloop into the River of D. from her said Intended Voyage, or within the like time and space of 20 days next after the safe Arrival from the Island of <hi>Barbadoes</hi> aforesaid into the River of <hi>D.</hi> within the said Port of <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> of any other Sloop of Vessel wherein the said——aforesaid. (A Covenant that the Sloop shall return from her Voyage within——to be accompted, and then the Money to be paid,) <hi>In Witness,</hi> &amp;c.</p>
@@ -14223,18 +14223,18 @@ than the said time and space of—(not exceeding in the said Voyage in the whole
                      </gap> G. G., his Factors and Assigns in the mean time to <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> on Board here all such lawful Goods and Merchandizes
-<pb n="167" facs="tcp:002997_0176_0FEFAD4F0DCC2678"/>
+<pb n="167" facs="unknown:002997_0176_0FEFAD4F0DCC2678"/>
 as he or they shall think for, which she may reasonable carry out and above her Victuals, Tackel and Apparel. And that the said Vessel shall, by Gods Grace, directly, as Wind and Weather will serve, sail unto the Island of <hi>B.</hi> and there Deliver unto the said <hi>G. G.</hi> his Executors, Administrators, Factors and Assigns, all such Goods and Merchandizes as shall be loaden on Board of her by the said <hi>G. G.</hi> his Executors, Admini<g ref="char:EOLhyphen"/>strators, Factors or Assigns, dry and well conditioned, Dan<g ref="char:EOLhyphen"/>ger of the Sea, Fire, Enemies, and Embargo of Princes only excepted. And after here clearing and right discharge of such Goods as she shall receive into her within the said Port of <hi>Philadelphia,</hi> shall receive in the said Island of <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>.</hi> her full lading in such lawful Goods and Merchandizes as it shall please the said <hi>G. G.</hi> his Executors, Administrators, Factors or Assigns, to Lade or cause to be Landen aboard her; and after such her full Lading at the Island of <hi>B.</hi> aforesaid, shall directly fall as Wind and Weather will permit to the said Port or Har<g ref="char:EOLhyphen"/>bour of <hi>P.</hi> aforesaid, and there deliver to the said <hi>G.G.</hi> his Executors, Administrators, Factors or Assigns, within the space of Ten Working Days hereafter mentioned, the said Goods and Merchandizes so received into her at <hi>B.</hi> aforesaid, dry and well conditioned, and make a right Discharge and End of the said Voyage, the Danger of the Sea, Fire, Eni<g ref="char:EOLhyphen"/>mies, and Embargo of Princes and Rulers only excepted: And that the said Vessel, after her arrival at <hi>B.</hi> aforesaid, shall stay at Anchor therefor her Unlading and Relading fifty Work<g ref="char:EOLhyphen"/>ing Days, and shall stay at Anchor at the said Port of <hi>P.</hi> after her Return again and Arrival there from <hi>B.</hi> aforesaid, Ten Working Days, for the Delivery of the said Goods so to be Landen aboard her at <hi>B.</hi> aforesaid; and the said <hi>G. G.</hi> for himself, his Executors, and Administrators, doth further Covenant, Promise and Grant to and with the said <hi>H. H.</hi> his Executors and Administrators, and also Warrant by these Presents, the said Vessel at her Departure from the said Port of <hi>P.</hi> and during she said Voyage, shall be strong &amp; staunch, and sufficiently Victualed, Tackled and Apparelled, and fur<g ref="char:EOLhyphen"/>nished with Masts Sails, Sail-Yards, Anchors, Cables, Roper, Cords, Tackle, Apparel, Boat and all other Furniture whatsoever requisite or needful for such a Vessel for such
-<pb n="168" facs="tcp:002997_0177_0FEFAD525E2A3AA0"/>
+<pb n="168" facs="unknown:002997_0177_0FEFAD525E2A3AA0"/>
 Voyage. And the said <hi>G. G.</hi> for himself, his Executors and Administrators, doth Covenant and Grant to and with the said <hi>H. H.</hi> his Executors and Administrators, not only to unlade and Relade and dispatch away the said Vessel at and from <hi>Bar.</hi> and <hi>Phil.</hi> aforesaid, within the Time and <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> before limited and agreed upon, but also for the freighter Hire of the said Sloop or Vessel for all the said Voyage, <abbr>
                         <hi>viz.</hi>
                      </abbr> from <hi>P.</hi> to the Island of <hi>B.</hi> and from thence to <hi>P,</hi> well and truly pay or cause to be paid unto the said <hi>H. H.</hi> his Execut<g ref="char:EOLhyphen"/>ors, Administrators or Assigns, the Sum of—Pounds current Money of P. in manner and form following, <hi>that is to say,</hi> The Sum of—as the Island of <hi>Bar.</hi> within 20 days next after the arrival of the said Sloop or Vessel and delivery of the said Goods well conditioned at the said Island of <hi>Bar.</hi> afore<g ref="char:EOLhyphen"/>said; and the Sum of—Pounds more, the residue of the said——Pounds at <hi>Phil.</hi> aforesaid, within Ten Work<g ref="char:EOLhyphen"/>ing Days after the return again and arrival of the said Sloop or Vessel from <hi>Bar.</hi> to <hi>Phil.</hi> and the Delivery of the said Goods to be received into her at <hi>Bar.</hi> aforesaid unto the said <hi>G. G.</hi> his Executors, Administrators, Factors or Assigns at <hi>P.</hi> afore<g ref="char:EOLhyphen"/>said well conditioned as aforesaid; together with Primage and Average, according to the use and Custom of Merchants. And the said <hi>G. G.</hi> for himself, his Heirs Executors and Ad<g ref="char:EOLhyphen"/>ministrators, doth Covenant and Grant to and with the said <hi>H. H.</hi> his Executors and Administrators by these Presents, that in case the said Vessel shall through the defalt of the said <hi>G. G.</hi> his Factors or Assigns, stay for Unlading or Relading at <hi>Bar.</hi> aforesaid, or for her Lading at <hi>P.</hi> aforesaid, before her departure from thence; or for her Unlading at <hi>P.</hi> afore<g ref="char:EOLhyphen"/>said and after her return and arrival from <hi>Bar.</hi> aforesaid, to <hi>P.</hi> aforesaid, after the several Days therefore above-mentioned, That then the said <hi>G. G.</hi> his Executors or Administrators shall and will pay or cause to be paid unto the said <hi>H. H.</hi> his Executors or Administrators the Sum of——Shillings for every Working Day that the said Vessel shall either stay at <hi>Bar.</hi> for her Unlading and Relading, or at <hi>P.</hi> aforesaid, for her Ladeng and Unlading after the Days above limited and agreed upon. And to the Performance of all and singular the
-<pb n="169" facs="tcp:002997_0178_0FEFAD54E31DB730"/>
+<pb n="169" facs="unknown:002997_0178_0FEFAD54E31DB730"/>
 Covenants and Agreements above-mentioned, which on the part and behalf of the said <hi>H. H.</hi> his Executors or Administrat<g ref="char:EOLhyphen"/>ors, are to be performed in all things as above said, the said <hi>H. H.</hi> bindeth himself, his Executors and Administrators, and especially the Sloop or Vessel aforesaid, with her Freight, unto the said <hi>G. G.</hi> his Executors and Administrators in the Sum or Penalty of Two Hundred Pounds of Lawful Money of <hi>P.</hi> well and truly to be paid by these Presents; and likewise for the performance of all and singular the Covenants and A<g ref="char:EOLhyphen"/>greements above-mentioned, which on the part and behalf of the said <hi>G. G.</hi> his Executors and Administrators, are and ought to be performed in all things as are above received, the said <hi>G. G.</hi> bindeth himself, his Executors and Administrat<g ref="char:EOLhyphen"/>ors and Goods, unto the said <hi>H. H.</hi> his Executors and Ad<g ref="char:EOLhyphen"/>ministrators, in the Sum or Penalty of Two Hundred Pounds of like Money of <hi>P.</hi> well and truly to be paid by these Presents. <hi>In Witness</hi> whereof, the Parties first above-named to these Charter parties Indented, interchangeably have set their Hands and Seals, the Day and Year first above-writen.</p>
                   <p>
                      <hi>Sealed and Delivered,</hi> &amp;c. H. H.</p>
@@ -14247,7 +14247,7 @@ Covenants and Agreements above-mentioned, which on the part and behalf of the sa
                      </gap>nodious, excellently useful and bene<g ref="char:EOLhyphen"/>ficial, as well to Kingdoms and Cities in general, as to Mer<g ref="char:EOLhyphen"/>chants and others in particular: And as Money was first invent<g ref="char:EOLhyphen"/>ed to be made of the best Metals, for the avoiding of chargeable and troublesome carriage, and transportation of Commodities from one Place to another in way of Trade: so was <hi>Exchange</hi> of <hi>Money</hi> first invented for the avoiding as well the danger, as the trouble and charge in the carriage of Money from Place to Place; and by reason that the Standards, Stamps, and Sub<g ref="char:EOLhyphen"/>scriptions of Moneys are found to be various and different (no Nation making use of others Coin) Merchants were forc'd for the better performance and carrying on this excellent <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, to appoint a certain Exchange, by giving Value for Value, according to the Fineness or Courseness of the Coyns, with
-<pb n="170" facs="tcp:002997_0179_0FEFAD58410012B0"/>
+<pb n="170" facs="unknown:002997_0179_0FEFAD58410012B0"/>
 certain allowance to the Merchant Exchanging.</p>
                   <p>Seeing then that Exchanges are of such great use and import<g ref="char:EOLhyphen"/>ance, the Merchant ought to have great insight and knowledge in the Coyns of Foreign Countries, that he may be able to reduce one Coyn into the valuation of another, by raising or <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -14265,7 +14265,7 @@ certain allowance to the Merchant Exchanging.</p>
                   </p>
                   <p>The meaning of a Bill of <hi>Exchange,</hi> in thus to be under<g ref="char:EOLhyphen"/>stood, suppose two Merchants have correspondence and deal<g ref="char:EOLhyphen"/>ing together, the one here in <hi>England,</hi> and the other in <hi>France,</hi> the Merchant in <hi>France</hi> having bought Good of a Man, to the value of 500 or 1000 l. the Man being to come to <hi>England,</hi> comes to the Merchant for his Money, who being perhaps not provided, or otherwise the Man desirous to have his Money paid in <hi>England;</hi> the Merchant upon these or the like con<g ref="char:EOLhyphen"/>fide rations, draws a Bill of <hi>Exchange</hi> for the said Sum upon his Correspondent here in <hi>England</hi> (who perhaps is indebted to him in greater Sums) to be Paid upon Sight, or within such a Time after Sight, either upon Usance, or double or treble Usance, as they agree. To be explain'd, that is two or three Months.</p>
                   <p>Again, sometimes Gentlemen or other having occasion to Travel beyond Seas, for their Convenience, Pay their Money to a Merchant here at <hi>London,</hi> desiring him to draw a Bill of <hi>Exchange</hi> for the same upon his Factor, or some Merchant with whom he hath Correspondence, at the Place where the Gentle<g ref="char:EOLhyphen"/>men
-<pb n="171" facs="tcp:002997_0180_0FEFAD59D827D680"/>
+<pb n="171" facs="unknown:002997_0180_0FEFAD59D827D680"/>
 do design their Journey; which Bill in ordered to be Paid as aforesaid.</p>
                </div>
                <div type="forms">
@@ -14317,7 +14317,7 @@ do design their Journey; which Bill in ordered to be Paid as aforesaid.</p>
                      </body>
                   </floatingText>
                   <p>
-                     <pb n="172" facs="tcp:002997_0181_0FEFAD5B6DF405D8"/>
+                     <pb n="172" facs="unknown:002997_0181_0FEFAD5B6DF405D8"/>
                      <hi>When this Bill comes to</hi> Mr. Trades <hi>he has <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> to pay that <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14380,7 +14380,7 @@ do design their Journey; which Bill in ordered to be Paid as aforesaid.</p>
                         </gap>.</hi>of the City of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="173" facs="tcp:002997_0182_0FEFAD60B98AE560"/>
+                     <pb n="173" facs="unknown:002997_0182_0FEFAD60B98AE560"/>
 ships Wright Sole Owner of the good Sloop or Vessel, called, The <hi>Ann,</hi> of the Burthen of Fifty Tons, or thereabouts, For and in Consideration of the Sum of <hi>Two Hundred Pounds</hi> current Money of the Province of <hi>Pensilvania</hi> to me in hand and before the Ensealing and Delivery of these Presents, by <hi>R. S.</hi> of the City of <hi>Phil, Marriner,</hi> the Receipt whereof he corn hereby acknowledge and himself there with fully Satisfied, Contented and Paid, hath Granted, Bargained and Sold, and he these Presents doth Grant, Bargain and Sell unto the said R. S., his Heirs, Executors and Assigns all that—H<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ll of the said good Sloop or Vessel, called, The <hi>Ann</hi> Together with Mast—Boom, Bolt-sprit—and all other Neces<g ref="char:EOLhyphen"/>sarys thereto Appertaining and belonging, Unto the said <hi>R. S.</hi> his Heirs, Executors and Assigns, To the Sole and only pro<g ref="char:EOLhyphen"/>per-use, benefit and behoof of him the said <hi>R. S.</hi> his Heirs, Executors and Assigns Forever. And the said <hi>J. L.</hi> doth, covenant for himself his Heirs, Executors and Administrators, To and with the said <hi>R. S.</hi> his Heirs Executors and Assigns. To Warrant and Defend the said Sloop and all other the be<g ref="char:EOLhyphen"/>fore-mentioned Appurtenances for the during the Full Term and Space of one Year and a Day, according to the Laws and Customs of <hi>Oleron</hi> in such Cases made and provided [Fire, Enemies, Restraint of Princes, Perils and Dangers of the Seas only excepted] In Testimony whereof the said <hi>J. L.</hi> hath hereunto set his Hand and Seal this 23d Day of <hi>May</hi> in the <hi>First</hi> Year of his Majestys Reign <hi>Anno<expan>
@@ -14395,7 +14395,7 @@ ships Wright Sole Owner of the good Sloop or Vessel, called, The <hi>Ann,</hi> o
                   <p>TO <hi>all People to whom this Present Writing shall <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>:</hi> I <hi>R. B.</hi> of, <hi>&amp;c.</hi> Gent. send Greeting. <hi>Whereas J. B.</hi> of, <hi>&amp;c.</hi> by Deed of Sale, or Writing under his Hand to Seal, bearing date the Day of, <hi>&amp;c.</hi> being the day before the Date hereof, hath bargained, sold, Transfered, and set over unto me the said <hi>R. B.</hi> one equal 16th Part of the new Ship, or Vessel, called the, <hi>&amp;c.</hi> of the Burthen of, <hi>&amp;c.</hi> or thereabouts; now Riding at Anchor in the River of <hi>D.</hi> and also one Equal 16th Part of all and singular the Masts, Sails, Anchors, Cables,
-<pb n="174" facs="tcp:002997_0183_0FEFAD6350086690"/>
+<pb n="174" facs="unknown:002997_0183_0FEFAD6350086690"/>
 and Appurtenances whatsoever, to the said Ship or Vessel be<g ref="char:EOLhyphen"/>longing, or in any wise appertaining, <hi>To have and to bill,</hi> The said Equal 16th Part of the said Ship, and all other the Premises in, and by the said Deed of sale mentioned, of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> to be granted, Transferred and set over, and every part thereof unto me the said <hi>R. B.</hi> my Executors, Administrators and Assigns forever, as by the said Writing or Deed of Sale more fully and largely appeareth. <hi>Now know ye,</hi> That I the said <hi>R. B.</hi> do here declare, That the said Writing, or Deed of Sale, of the Premisses before mentioned, is made to me only in Trust to and for the only use benefit and behoof of the said <hi>J. B.</hi> his Executors, Administrators and Assigns. And that I the said <hi>R. B.</hi> paid no Money or other Consideration for the same; but that the same Equal 16th Part of the said Ship or Vessel and all other the Premisses in and by the said Deed of Sale mentioned, to be no me granted are the proper Goods and Chattles of the said <hi>J. B.</hi> his Executors, Administrators and Assigns, for and notwithstanding the said Writing or Deed of Sale to be made as aforesaid, and are to be and remain to and for the only proper use, benefit and behoof of the said <hi>J. B.</hi> his Executors, Administrators and Assigns. And I the said <hi>R. B.</hi> do hereby deny and disclaim the having any Right, Title, Interest, Property, Claim or Demand of, in, or to the said Sixteenth Part of the said Ship or Vessel, and other the Premisses in and by the said Writing or Deed of Seal to me granted as aforesaid, otherwise then in Trust as afore<g ref="char:EOLhyphen"/>said, to and for the use, benefit and behoof of the said <hi>J. B.</hi> his Executors Administrators and Assigns as aforesaid. <hi>In Witness,</hi> &amp;c.</p>
@@ -14405,7 +14405,7 @@ and Appurtenances whatsoever, to the said Ship or Vessel be<g ref="char:EOLhyphe
                   <p>T<hi>His Indenture made,</hi> &amp;c. Between <hi>J. P.</hi> of, <hi>&amp;c.</hi> of the one Part, and <hi>H. C.</hi> of the other Part, <hi>Whereas</hi> the said <hi>J. P.</hi> by his Recognizance in the Nature of a Statute <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, bearing even date with these Presents, taken and acknowledged, before, <hi>&amp;c.</hi> Lord Chief Justice of his Majesties Court of <hi>Kings Bench</hi> at <hi>Westminster is, and</hi> standeth bound
-<pb n="175" facs="tcp:002997_0184_0FEFAD671A4F1B80"/>
+<pb n="175" facs="unknown:002997_0184_0FEFAD671A4F1B80"/>
 to the said <hi>H. C.</hi> in the Sum of, <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -14435,7 +14435,7 @@ to the said <hi>H. C.</hi> in the Sum of, <hi>
                         <desc>••</desc>
                      </gap>onably. The chief Commodities, are Corn, Cattle, Tin, Copper Lead, Iron, Timber, Coal, Wool, Cloth, Stuffs, Linnen, Hides, Tallow, Butter, Cheese and Beer, &amp;c.</p>
                   <p>
-                     <pb n="176" facs="tcp:002997_0185_0FEFAD68A6E16268"/>
+                     <pb n="176" facs="unknown:002997_0185_0FEFAD68A6E16268"/>
 The <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> of this Country are (1) the abundance of <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14537,12 +14537,12 @@ The <gap reason="illegible" resp="#AELD" extent="1 word">
                         </gap>,</hi> in the North riding of <hi>Yorkshire.</hi>
                   </p>
                   <p>
-                     <pb n="177" facs="tcp:002997_0186_0FEFAD6C615BFE48"/>
+                     <pb n="177" facs="unknown:002997_0186_0FEFAD6C615BFE48"/>
 The Kingdom of <hi>England</hi> is a Famous Ancient and Here<g ref="char:EOLhyphen"/>ditary Monarchy: A Monarchy that affords very much to the Industry, Liberty and Happiness of the Subject, and reserves enough for the Majesty and Prerogative of the King, who in willing to own his People as Subjects, and not as Slaves. The Supream Court of Judicature is the <hi>High Court of Parliament.</hi> The Inferior Courts are the <hi>King's-Bench,</hi> the Court of <hi>Com<g ref="char:EOLhyphen"/>mon Pleas,</hi> the High-Court of <hi>Chancery,</hi> the <hi>Exchequer,</hi> and the Court of the Dutchy of <hi>Lancaster;</hi> &amp;c. As also the <hi>Ecclesiastical-Courts</hi> in Subordination to the Arch-Bishop of <hi>Canterbury;</hi> besides these various Courts; the King, consult<g ref="char:EOLhyphen"/>ing the case, safety and welfare, or the Subject; administers Justice by his Judges, and that in their yearly Circuits thro' the Kingdom; and, for the better go vertuing and keeping the Peace in particular Counties, Hundreds, Cities; Boroughs; and Villages, County's have their respective Lords Lieuten<g ref="char:EOLhyphen"/>ants, Sheriffs, and Justices of the Peace; Hundreds, their Bailiffs, High Constables, and Petty-Constables. Cities, their Mayor, Aldermen, Sheriffs, &amp;c. Boroughs and Towns incorporate, have either a Mayor or two Bailiffs, or Port-reeve, who, in power, are the same with Mayor and Sheriffs, and during their Offices, are Justices of the Peace within their own Liberties. And lastly; Villages are in subject on to the Lord of the Manuor, under whom is the Constable or Head borough, to keep the Peace, apprehend Offenders; and bring them be<g ref="char:EOLhyphen"/>fore the Justice.</p>
                   <p>Historians report That <hi>Gomer,</hi> the eldest Son of <hi>Japheth</hi> the Son of <hi>Noah,</hi> gave name to the <hi>Gomerains,</hi> who filled al<g ref="char:EOLhyphen"/>most this part of the World; leading, as <hi>Vilitb<gap reason="illegible" resp="#AELD" extent="2 letters">
                            <desc>••</desc>
                         </gap>s</hi> faith, in the tenth year of <hi>Nimrod,</hi> a Colony out of <hi>Armenia</hi> into <hi>Italy,</hi> which of <hi>Gomer</hi> were called <hi>Cowbri,</hi> and afterwards <hi>Cimbri;</hi> when such as departed from <hi>Italy</hi> went into the North parts, and gave in the Name of <hi>Crimbrica;</hi> or <hi>Chersonesus</hi> from whence the <hi>Britains</hi> or <hi>English</hi> proceeded; who came over at first from the Continent of <hi>France, England</hi> was Anciently called <hi>Cumbri:</hi> these <hi>Britains</hi> as I may call them, were then as wild in many things as the <hi>Indians</hi> in <hi>America</hi> are now, as in Curing, Marking and Painting their Flesh, and in going Naked: Some of those Indians held that Souls depated, wand<g ref="char:EOLhyphen"/>ered
-<pb n="178" facs="tcp:002997_0187_0FEFAD7003FD4938"/>
+<pb n="178" facs="unknown:002997_0187_0FEFAD7003FD4938"/>
 up and down and suffered Hunger, Thirst and Cold, and Buried their Bodies, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Meat, and Gold and Silver with them in their Graves: But believed the Souls of good Men art in Glory.</p>
@@ -14583,7 +14583,7 @@ up and down and suffered Hunger, Thirst and Cold, and Buried their Bodies, <gap 
                            <desc>〈◊〉</desc>
                         </gap>
                      </hi> and <hi>Scots,</hi> who came out of <hi>Scotland,</hi> and robed and spoiled the Countrys-to prevent which <hi>Servants,</hi> one of the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi>
-                     <pb n="179" facs="tcp:002997_0188_0FEFAD72702FF000"/>
+                     <pb n="179" facs="unknown:002997_0188_0FEFAD72702FF000"/>
 Emperors, caused a Wall to be made from Sea to Sea, be<g ref="char:EOLhyphen"/>tween <hi>England</hi> and <hi>Scotland;</hi> that is, from <hi>Eden</hi> to <hi>Tine.</hi>
                   </p>
                   <p>Divers of the Emperors were here in Person, as <hi>Alxender</hi> and <hi>Severus,</hi> who is reported to be buried at <hi>York, Anno</hi> 236. Here also was <hi>Constantius,</hi> Father to <hi>Constantius</hi> the Great, be from hence Married <hi>Helena,</hi> a Woman of this Land, who was afterwards Mother to the Renowned <hi>Constantine</hi> (from whom <hi>Constantinople</hi> had its name, the Chief City of the Great <hi>Turk.</hi>
@@ -14627,7 +14627,7 @@ Emperors, caused a Wall to be made from Sea to Sea, be<g ref="char:EOLhyphen"/>t
                            <desc>〈◊〉</desc>
                         </gap> Anno</hi> 818.</p>
                   <p n="4">
-                     <pb n="180" facs="tcp:002997_0189_0FEFAD7410D21378"/>
+                     <pb n="180" facs="unknown:002997_0189_0FEFAD7410D21378"/>
 4. The Kingdom of the<hi>East Saxons,</hi> containing, <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -14664,7 +14664,7 @@ Emperors, caused a Wall to be made from Sea to Sea, be<g ref="char:EOLhyphen"/>t
                         <desc>〈◊〉</desc>
                      </gap> avoid which Villany, the Party then Drinking, requested some of the next to him to be his Surety, or Pledge for his Life; from whence came the Expression used to this Day of Pledging, one another, when the party Drank to, takes his turn, and Drink; next after him.</p>
                   <p>
-                     <pb n="181" facs="tcp:002997_0190_0FEFAD778295FCC0"/>
+                     <pb n="181" facs="unknown:002997_0190_0FEFAD778295FCC0"/>
 Now the Cause being through Gods Mercy taken away, there's no need of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Custom of tempting any to Drink more than good nature <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14706,7 +14706,7 @@ Now the Cause being through Gods Mercy taken away, there's no need of <gap reaso
                      </hi> the <hi>Danish</hi> King, being taught by some Men, that <hi>St. Peter</hi> had received from <hi>Christ</hi> the great Power of Binding and Loosing, and that be was also the Key-bearer of Heaven Gates, for which cause (lest <hi>St. Peter</hi> should not open the same unto him, when he should come thither) he went on Pilgrimage to <hi>Rome.</hi>
                   </p>
                   <p>The Fifth and last Conquest was by the <hi>Normans,</hi> under the leading of Duke <hi>William</hi> of <hi>Normandy,</hi> who pretending he had Right to the Crown of <hi>England,</hi> promise of Adoption, of some other conveyance from King <hi>Harold,</hi> did with his <hi>Normans, Anno</hi> 1066. in 896 ships arrive at <hi>Pensey</hi> in <hi>Suffex,</hi>
-                     <pb n="182" facs="tcp:002997_0191_0FEFAD7AC7DE5FB0"/>
+                     <pb n="182" facs="unknown:002997_0191_0FEFAD7AC7DE5FB0"/>
 and obtained a great Victory <hi>October</hi> the 14th in which were <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ain <hi>Herald</hi> with 66000 of the <hi>English. William</hi> took upon him the Kingdom as Conqueror, for he seized all into <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14756,7 +14756,7 @@ and obtained a great Victory <hi>October</hi> the 14th in which were <gap reason
                         </gap>,</hi> upon which he sent his Brother <hi>Bartholomew</hi> to King <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> VIIth of <hi>Engl<g ref="char:EOLhyphen"/>and,</hi> who being unhappily taken by
-<pb n="183" facs="tcp:002997_0192_0FEF96EA9109E870"/>
+<pb n="183" facs="unknown:002997_0192_0FEF96EA9109E870"/>
 Pyrates in his Voyage in <hi>England,</hi> he after long Imprisonned arrived in <hi>England,</hi> and repairing to Court, presented King <hi>Henry</hi> with a Map of the World with his Brother's Offer of Discovery: The Motion was readily entertained, and <hi>Christo<g ref="char:EOLhyphen"/>pher</hi> sent for into <hi>England,</hi> who hearing nothing from his Brother, he went to <hi>Spain,</hi> where he sped in his Suit, and arrived at the Court of <hi>Castile</hi> in 1446; but <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -14785,7 +14785,7 @@ Pyrates in his Voyage in <hi>England,</hi> he after long Imprisonned arrived in 
                         </gap>.</hi> One of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> which they named <hi>St. Salvador,</hi> and sail'd from thence to <hi>Hispaniola,</hi> where the Natives fed
-<pb n="184" facs="tcp:002997_0193_0FEFAD80C866ECB8"/>
+<pb n="184" facs="unknown:002997_0193_0FEFAD80C866ECB8"/>
 from whence to the Mountains, but seizing one Woman, tho' gave her Meat, Drink, and Clothes, and let her go, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> declaring their Civility, they came in Troops to the Ships, Side, judging the <hi>Spaniards</hi> to be some divine Nation for from Heaven, tho' at first they thought them <hi>Can<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -14809,7 +14809,7 @@ from whence to the Mountains, but seizing one Woman, tho' gave her Meat, Drink, 
                      <hi>Columbus</hi> having led the Way, was seconded by <hi>American Vesputius,</hi> a <hi>Florentine,</hi> employed by <hi>Emanuel,</hi> King of <hi>Portugal</hi> in 1502, who had been his Companion in the first Expedition. He with a competent Number of Ships &amp; Men, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> the Equinoctial, and discovered the Coasts of <hi>Guiana,</hi> &amp; <hi>Brasil,</hi> beyond the Tropick of <hi>Capricorn,</hi> to 32 Degrees of <hi>South Latitude,</hi> and the Height of the Streights of <hi>Magellane.</hi> (as they were afterwards called). But <hi>Americas</hi> meeting with soul Weather, was forced to return Home by the Coast of <hi>Africa.</hi> The next Year he design'd a Voyage to <hi>Insula
-<pb n="185" facs="tcp:002997_0194_0FEFAD82C3E8F230"/>
+<pb n="185" facs="unknown:002997_0194_0FEFAD82C3E8F230"/>
 Real in Brasile,</hi> but his Provisions being lost upon the Coast of Guinea in <hi>Africa,</hi> he was forced to return, but how long he lived after, is not Recorded, yet he had the Honour and Happiness, (to the great Injury of <hi>Columbus</hi>) to give his Name to the fourth Part of the World, which from him was called <hi>America.</hi>
                   </p>
                   <p>
@@ -14847,7 +14847,7 @@ Real in Brasile,</hi> but his Provisions being lost upon the Coast of Guinea in 
                      </gap> Authority, and by whose Order he <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> an Assembly of
-<pb n="186" facs="tcp:002997_0195_0FEFAD84CE0B3AE8"/>
+<pb n="186" facs="unknown:002997_0195_0FEFAD84CE0B3AE8"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Chief of his People, where he obliged him to make an Oration, declaring, <q>That his Predecessors were not born in this Country, but came from a strange Land, and that their Kings of old had promised to send such as should rule them, and had accordingly sent these <hi>Spaniards,</hi> and that they ought to submit to the Emperor of <hi>Spain,:</hi>
@@ -14867,7 +14867,7 @@ Real in Brasile,</hi> but his Provisions being lost upon the Coast of Guinea in 
                   <p>After <hi>Columbus</hi> and other <hi>Spaniards</hi> had discovered this rich immense Country, other Nations were encouraged to take a more strict Survey of every Part, both <hi>North</hi> and <hi>South.</hi> The <hi>Portuguese</hi> first settled in <hi>Brasile</hi> and other Places. The <hi>French</hi> took Possession of <hi>Canada</hi> on the North and several <hi>English-Men</hi> attempted to find a N. W. <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="187" facs="tcp:002997_0196_0FEFAD8717A2F6E0"/>
+                     <pb n="187" facs="unknown:002997_0196_0FEFAD8717A2F6E0"/>
                      <hi>China,</hi> and the <hi>East-Indies;</hi> namely Sir <hi>Sebastian Cabot,</hi> as the Charge of King <hi>Henry</hi> VIIIth, in 1493; after him Sit <hi>Martin Frobisher,</hi> in the Reign of Q. <hi>Elizabeth;</hi> then the Captains, <hi>Davis, Weymouth, Hall, Burrough, Pet, Jackman, <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>, Baffin, Smith</hi> and <hi>Hudson,</hi> the Result of whose en<g ref="char:EOLhyphen"/>deavours were the finding some cold Islands, to which they gave Names, and among other to <hi>Hudsons Streight,</hi> or <hi>Bay,</hi> which is in Possession of the <hi>English</hi> at this time, <gap reason="illegible" resp="#AELD" extent="2 words">
@@ -14905,7 +14905,7 @@ Real in Brasile,</hi> but his Provisions being lost upon the Coast of Guinea in 
                      </gap> had a <gap reason="illegible" resp="#AELD" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>
-                     <pb n="188" facs="tcp:002997_0197_0FEFAD8C5E2EA770"/>
+                     <pb n="188" facs="unknown:002997_0197_0FEFAD8C5E2EA770"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> a starley House and Fort at <hi>Ferryland,</hi> where no <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -14969,7 +14969,7 @@ Real in Brasile,</hi> but his Provisions being lost upon the Coast of Guinea in 
                      </gap> and send great Quantities of Goods to <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> from whence
-<pb n="189" facs="tcp:002997_0198_0FEFAD8DF30B8140"/>
+<pb n="189" facs="unknown:002997_0198_0FEFAD8DF30B8140"/>
 they import all Sorts of Goods which they want, and are now grown one of the most thriving Colonies in the <hi>West-Indies.</hi>
                   </p>
                   <p>
@@ -14984,7 +14984,7 @@ they import all Sorts of Goods which they want, and are now grown one of the mos
                      </gap>.</p>
                   <p>
                      <hi>PENSILVANIA</hi> is a Member of that Part of <hi>America,</hi> which the King of <hi>England</hi> Ancestors have taken care to preserve and improve; and King <hi>Charles</hi> IId, in Consideration
-<pb n="190" facs="tcp:002997_0199_0FEFAC8ED11AE418"/>
+<pb n="190" facs="unknown:002997_0199_0FEFAC8ED11AE418"/>
 of the Services of Sir <hi>William Pen,</hi> upon the Petition of his Son <hi>William Pen</hi> 
                      <abbr>Esq</abbr> made him a Grant of that Tract of Land in <hi>America,</hi> which he named <hi>Pensilvania;</hi> which in a few Years from a small Beginning is grown a populous and rich Plantation, inhabited principally by <hi>Quakers,</hi> &amp; other likewise; there being Places of Worship for People of <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -15069,7 +15069,7 @@ of the Services of Sir <hi>William Pen,</hi> upon the Petition of his Son <hi>Wi
                      </gap>. It is finance <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="191" facs="tcp:002997_0200_0FEFADEB16E16430"/>
+                     <pb n="191" facs="unknown:002997_0200_0FEFADEB16E16430"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> South of <hi>Haryland,</hi> and abounds in all Things common <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -15097,7 +15097,7 @@ of the Services of Sir <hi>William Pen,</hi> upon the Petition of his Son <hi>Wi
                      </gap>e Liberty of Conscience; this Country is in the same Climate and Tempe<g ref="char:EOLhyphen"/>rature with <hi>Aleppo, Smyrna, Antioch</hi> in <hi>Judea,</hi> and the Pro<g ref="char:EOLhyphen"/>vince of <hi>Nanking,</hi> the richest in <hi>China,</hi> and will produce any Thing which those Parts do, were the Seeds brought and sowed in it; it is 600 Miles nearer the Sun than <hi>England,</hi> and so heal<g ref="char:EOLhyphen"/>thy; that several phthisical and consumptive People who came from <hi>England</hi> have recovered, and others that have been af<g ref="char:EOLhyphen"/>fected with the Stone, have been quite cured, neither is the <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> known in this Colony, they enjoy all the Blessings which we have mentioned in others, both for Health and Pleasure, and some others that they are not Partakers of. They have
-<pb n="192" facs="tcp:002997_0201_0FEFAD921200B808"/>
+<pb n="192" facs="unknown:002997_0201_0FEFAD921200B808"/>
 five Sorts of Grapes growing naturally in the Fields, which the <hi>French</hi> that are <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, will make very good Wine, &amp; some of the Lords Proprietors have taken care to send them Plants of <gap reason="illegible" resp="#AELD" extent="1 word">
